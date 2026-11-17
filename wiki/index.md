@@ -5,6 +5,7 @@ Snapshot: 2026-11-17. 38 of 50 selected video source notes.
 ## Concepts
 
 - [[ai-control-and-societal-risk|AI control arguments and competing uncertainties]]
+- [[ai-health-evidence-and-clinical-uncertainty|AI in health: evidence, uncertainty and accountable care]]
 - [[task-centered-ai-interfaces|Design AI interaction around the task]]
 - [[customer-value-beyond-prototype|From cheap prototype to durable customer value]]
 - [[context-portability-and-access|Portable context, permissions and provider dependence]]

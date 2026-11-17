@@ -60,7 +60,7 @@ Wording is machine-generated, not audio-verified, and not assured verbatim. Exce
 
 ## Related concepts
 
-No authored concept currently links to this source note.
+- [[ai-health-evidence-and-clinical-uncertainty|AI in health: evidence, uncertainty and accountable care]]
 
 ## Sources
 
