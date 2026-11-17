@@ -1,0 +1,64 @@
+{
+  "id": "2NFQ4-6MzuU",
+  "title": "The Real AI Opportunity  | The Ultimate Guide to Become Visible in AI",
+  "url": "https://www.youtube.com/watch?v=2NFQ4-6MzuU",
+  "rank": 20,
+  "upload_date": "2026-08-04",
+  "duration_seconds": 1061,
+  "transcription_date": "2026-11-17",
+  "source_method": "audio_asr",
+  "source_availability": "audio_asr_based",
+  "timestamp_availability": false,
+  "overview": "The host describes a self-reported generative search visibility experiment for her podcast, from crawlable episode pages and consistent identity to measurement and outside mentions.",
+  "key_points": [
+    "The host argues that discoverability in AI-generated answers matters and describes an experiment rather than a controlled causal study.",
+    "Her team rebuilt episode pages with readable text, summaries and transcripts, and submitted a sitemap for indexing.",
+    "She reports changing identity descriptions across structured data and podcast platforms, claiming the new classification helped.",
+    "She used a visibility tracker and a limited set of questions; changes in that set and personalized answers constrain interpretation.",
+    "She recommends titles aligned with real audience queries and notes that broader queries remained difficult.",
+    "Her numerical growth, conversion and earned-media claims are unverified and do not establish a universal recipe."
+  ],
+  "summary": [
+    "The host presents generative engine optimization as an effort to make a podcast or business easier for AI assistants to discover and mention. She opens with a real-estate anecdote and several statistics about shopping, conversion and marketing adoption, but the episode as transcribed does not establish their accuracy. Her own case study begins when queries for AI podcasts did not return her show. A chatbot suggested technical and content changes, but a chatbot's diagnosis is not a reliable substitute for inspecting actual HTML, indexing reports and crawler access. The promotional segment for an email platform contains claims about cost, returns and migration that are not independently checked.",
+    "The team describes building a podcast site with a separate page for each episode and placing episode information, summaries and transcripts in readable page content. The host says a sitemap was submitted through a search console and that additional pages were discovered. These are concrete technical steps to investigate, not evidence that every crawler can access a site or that indexing guarantees a recommendation. Her description of the stack and the timing of indexing reflects her own project; the ASR may misrender product names or domains. She also recommends checking page titles against questions audiences use, while keeping those titles accurate rather than treating a phrase match as a guarantee.",
+    "A second workstream concerns entity identity. She reports revising a structured knowledge record and aligning descriptions across podcast platforms, believing inconsistent classifications had led assistants to describe the show incorrectly. Treat this as her explanation, not a demonstrated account of how all models choose sources: systems differ, and a public knowledge base has its own sourcing and conflict-of-interest rules. Changes should be accurate, supported by reliable evidence and consistent with the platform's policies, rather than crafted to manipulate a classification. The speaker also points to outside articles and listicles as possible sources for broader queries; her quantitative claim about earned media is unverified.",
+    "For measurement, she describes a paid tracking product, a limited question set and repeated checks across selected AI experiences. She reports improved visibility on that sample but acknowledges that personalization and expanding the questions could change the ranking, and says the show still performs poorly for broad queries. The changes were bundled together, so the account cannot isolate which intervention caused any improvement; sample size, selection and external changes matter. A useful adaptation is to save a fixed baseline of representative queries, document settings and changes, and compare trends without equating mentions with traffic, conversions or revenue. She promotes her newsletter and offers a plan at the end."
+  ],
+  "quotes": [
+    {
+      "text": "The biggest threat to you and your business right now is an AI replacing you. It's AI ignoring you.",
+      "timestamp": null,
+      "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+    }
+  ],
+  "action_items": [
+    "Editorial application: Inspect rendered and source HTML and verify indexing and crawler settings before relying on a chatbot diagnosis.",
+    "Editorial application: Audit public descriptions for accuracy and consistency, following each platform’s evidence and conflict-of-interest policies.",
+    "Editorial application: Establish a fixed, representative query set and record dates, tools, settings, visibility and actual site outcomes separately.",
+    "Editorial application: Test one change at a time where feasible and report sample limitations instead of claiming that citations prove conversion."
+  ],
+  "resources": [
+    {
+      "label": "Omnisend (promotional segment; spelling may be affected by ASR)",
+      "url": null
+    },
+    {
+      "label": "AI visibility tracking product discussed (name unverified)",
+      "url": null
+    },
+    {
+      "label": "Future Proof newsletter (promotion)",
+      "url": null
+    }
+  ],
+  "topics": [
+    "AI",
+    "Marketing",
+    "Search"
+  ],
+  "caveats": [
+    "Unverified AI-generated ASR from locally acquired audio; audio was not listened to, and actual speech, completeness, names, numbers, negations and audio–video equivalence are unverified.",
+    "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+    "Technical explanations, performance statistics, promotion claims and causal interpretations are not independently verified. This is not medical advice."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "213rSCulKUQ",
+  "title": "Top 1% Career Strategy: How to Get Hired in the AI Era",
+  "url": "https://www.youtube.com/watch?v=213rSCulKUQ",
+  "rank": 16,
+  "upload_date": "2026-09-04",
+  "duration_seconds": 1358,
+  "transcription_date": "2026-11-17",
+  "source_method": "audio_asr",
+  "source_availability": "audio_asr_based",
+  "timestamp_availability": false,
+  "overview": "The host assembles employer perspectives on demonstrating domain expertise, experimentation and AI fluency during a job search, while presenting contested claims about the labor market.",
+  "key_points": [
+    "Interviewees describe credentials as signals and suggest demonstrating relevant work, communication and learning.",
+    "One hiring framework favors experimentation, close observation of workflows and curiosity about customers.",
+    "A generalist can combine depth in one discipline with enough adjacent skill to prototype, test and collaborate.",
+    "Some employers say they assess AI use or willingness to learn it, though practices vary across roles and organizations.",
+    "The host recommends documenting experiments and presenting a workflow improvement; this is not a guarantee of hiring.",
+    "Labor-market statistics and claims about the net effect of AI on jobs are asserted without independent validation here."
+  ],
+  "summary": [
+    "The host frames the hiring market as difficult and compiles clips from executives and founders rather than presenting a representative study of employers. Opening statistics about applications, hiring and the role of automated resume screening are claims in the video, not verified findings. One guest describes a degree or high grade as a signal rather than a complete assessment and says he searches for evidence of how applicants communicate. Another describes careers as nonlinear and anticipates substantial changes in role-specific skills; the figures and forecast should not be treated as established facts. Public visibility may help some candidates, but it also brings privacy and accessibility tradeoffs.",
+    "A recurring theme is the difference between naming a skill and demonstrating it. One executive describes hiring for an experimental mindset: formulate a hypothesis, test it, learn from the result, and stay close to the customer and the work itself. A founder describes a designer who can cross traditional boundaries to prototype and get feedback, illustrating a generalist with a strong specialty rather than someone equally expert at everything. The host suggests keeping concrete examples, including failed tests, and explaining how a proposed change would affect a team. These examples describe particular employers' preferences, not universal criteria.",
+    "Other guests advocate building technical fluency alongside existing domain expertise. The discussion moves from understanding what agents and tools do to experimenting with a process in one's own field. A hiring executive describes allowing AI in some engineering interviews and paying attention to learning and past system decisions; those practices should not be assumed elsewhere. In an interview, a candidate might explain a proposed workflow, the assumptions behind it, how quality would be checked and where human judgment remains necessary. Experiments should use authorized, non-sensitive data, and candidates should not give away substantial unpaid work merely because the host recommends a demonstration.",
+    "A promotional segment for a meeting transcription product presents recording and searchable call summaries as useful for reflection. Its security assertions are promotional, not independently assessed; recording and sharing calls requires appropriate consent, privacy safeguards and compliance with applicable rules. The host's five-part plan includes improving a process, documenting it, learning more technical detail and preparing examples for interviews. Her closing assertion that AI creates more jobs than it removes is a personal impression, not demonstrated by the interviews. No tactic in the episode guarantees employment, and circumstances differ across occupations and labor markets."
+  ],
+  "quotes": [
+    {
+      "text": "Breaking into the job market right now is harder than it has been in 37 years.",
+      "timestamp": null,
+      "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+    }
+  ],
+  "action_items": [
+    "Editorial application: Select a safe, authorized workflow and document the problem, baseline, experiment, result and limitations.",
+    "Editorial application: Prepare two examples of learning or experimentation, including a failure and what changed afterward.",
+    "Editorial application: Research an employer’s actual role requirements and tailor a modest, non-confidential demonstration to them.",
+    "Editorial application: Obtain appropriate consent before recording a conversation and review privacy and retention terms before uploading it."
+  ],
+  "resources": [
+    {
+      "label": "Transcriptor (promotional segment)",
+      "url": null
+    },
+    {
+      "label": "Future Proof newsletter (promotion)",
+      "url": null
+    }
+  ],
+  "topics": [
+    "AI",
+    "Careers",
+    "Hiring"
+  ],
+  "caveats": [
+    "Unverified AI-generated ASR from locally acquired audio; audio was not listened to, and actual speech, completeness, names, numbers, negations and audio–video equivalence are unverified.",
+    "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+    "Hiring statistics, predictions, company claims and labor-market assertions are not independently verified. This is not medical advice."
+  ]
+}

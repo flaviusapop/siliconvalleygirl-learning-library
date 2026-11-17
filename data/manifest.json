@@ -3,7 +3,7 @@
   "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
   "collected_at_utc": "2026-11-17T08:57:00.435949+00:00",
   "requested_count": 50,
-  "scope": "25 available notes from 50 frozen selected videos",
+  "scope": "31 available notes from 50 frozen selected videos",
   "videos": [
     {
       "rank": 1,
@@ -107,6 +107,40 @@
       "source_method": "audio_asr"
     },
     {
+      "rank": 7,
+      "id": "Jijc0XokSpQ",
+      "title": "Top Google Exec: AI Moves Fast, Jobs Move Slow. Use the Gap",
+      "url": "https://www.youtube.com/watch?v=Jijc0XokSpQ",
+      "duration_seconds": 3359,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-10-13",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 8,
+      "id": "0lsasYuzhL4",
+      "title": "Nobel Economist: Where He Sees the Real Money in AI",
+      "url": "https://www.youtube.com/watch?v=0lsasYuzhL4",
+      "duration_seconds": 2642,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-10-06",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 9,
       "id": "iJlyNupMOzA",
       "title": "Brian Chesky: People Who Know What to Build With AI Will Pull Ahead",
@@ -137,6 +171,23 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 11,
+      "id": "oOpF0ZXSXuk",
+      "title": "Stanford Doctor: Never Tell AI What You Think Is Wrong With You",
+      "url": "https://www.youtube.com/watch?v=oOpF0ZXSXuk",
+      "duration_seconds": 2914,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-09-25",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 12,
@@ -171,6 +222,23 @@
       "timestamp_availability": false
     },
     {
+      "rank": 14,
+      "id": "cVGHg4Vd9uM",
+      "title": "The Biggest AI Opportunities Are Hiding in Boring Businesses",
+      "url": "https://www.youtube.com/watch?v=cVGHg4Vd9uM",
+      "duration_seconds": 1439,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-09-11",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 15,
       "id": "JEZVl3BkSLk",
       "title": "Superhuman CEO: How to Position Yourself Now Before the Next AI Phase (2026–2027)",
@@ -185,6 +253,23 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 16,
+      "id": "213rSCulKUQ",
+      "title": "Top 1% Career Strategy: How to Get Hired in the AI Era",
+      "url": "https://www.youtube.com/watch?v=213rSCulKUQ",
+      "duration_seconds": 1358,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-09-04",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 17,
@@ -217,6 +302,23 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 20,
+      "id": "2NFQ4-6MzuU",
+      "title": "The Real AI Opportunity  | The Ultimate Guide to Become Visible in AI",
+      "url": "https://www.youtube.com/watch?v=2NFQ4-6MzuU",
+      "duration_seconds": 1061,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-08-04",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 23,
@@ -412,6 +514,6 @@
       "timestamp_availability": false
     }
   ],
-  "available_count": 25,
+  "available_count": 31,
   "partial": true
 }
