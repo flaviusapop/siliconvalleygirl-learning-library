@@ -1,6 +1,6 @@
 # Silicon Valley Girl Learning Library Wiki
 
-Snapshot: 2026-11-17. 35 of 50 selected video source notes.
+Snapshot: 2026-11-17. 38 of 50 selected video source notes.
 
 ## Concepts
 
@@ -39,7 +39,10 @@ Snapshot: 2026-11-17. 35 of 50 selected video source notes.
 - [[siliconvalleygirl-library-video-22|Stanford's Top AI Economist: The Next 10 Years Will Be the Best AND the Worst in History]]
 - [[siliconvalleygirl-library-video-23|The 3-Year AI Deadline: How to Stay Relevant (2026-2028)]]
 - [[siliconvalleygirl-library-video-24|Khan Academy CEO: The Real AI Opportunity Is in Boring Industries | Sal Khan]]
+- [[siliconvalleygirl-library-video-25|The Next 3 Years of AI: Lessons from Elon Musk’s First Investor]]
+- [[siliconvalleygirl-library-video-26|Why You Need to Rethink Your Career Now | Richard Socher]]
 - [[siliconvalleygirl-library-video-27|Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li]]
+- [[siliconvalleygirl-library-video-28|AI-First Playbook: Do a Team's Work With AI (2026) | Peter Yang]]
 - [[siliconvalleygirl-library-video-30|She Raised a YouTube CEO and a Billion-Dollar Founder | Esther Wojcicki, Godmother of Silicon Valley]]
 - [[siliconvalleygirl-library-video-33|Head of ChatGPT & Codex: agents for normal people are HERE]]
 - [[siliconvalleygirl-library-video-36|Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)]]

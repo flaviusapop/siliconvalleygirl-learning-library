@@ -3,7 +3,7 @@
   "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
   "collected_at_utc": "2026-11-17T08:57:00.435949+00:00",
   "requested_count": 50,
-  "scope": "35 available notes from 50 frozen selected videos",
+  "scope": "38 available notes from 50 frozen selected videos",
   "videos": [
     {
       "rank": 1,
@@ -405,6 +405,40 @@
       "source_method": "audio_asr"
     },
     {
+      "rank": 25,
+      "id": "fxIVCIoLOys",
+      "title": "The Next 3 Years of AI: Lessons from Elon Musk’s First Investor",
+      "url": "https://www.youtube.com/watch?v=fxIVCIoLOys",
+      "duration_seconds": 2600,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-07-07",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 26,
+      "id": "2j9yjRSpMSo",
+      "title": "Why You Need to Rethink Your Career Now | Richard Socher",
+      "url": "https://www.youtube.com/watch?v=2j9yjRSpMSo",
+      "duration_seconds": 2982,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-06-26",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 27,
       "id": "subu-xHrp1w",
       "title": "Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li",
@@ -419,6 +453,23 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 28,
+      "id": "Yu0z7-KMHpo",
+      "title": "AI-First Playbook: Do a Team's Work With AI (2026) | Peter Yang",
+      "url": "https://www.youtube.com/watch?v=Yu0z7-KMHpo",
+      "duration_seconds": 1774,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-06-16",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 30,
@@ -582,6 +633,6 @@
       "timestamp_availability": false
     }
   ],
-  "available_count": 35,
+  "available_count": 38,
   "partial": true
 }
