@@ -1,6 +1,6 @@
 # Silicon Valley Girl Learning Library Wiki
 
-Snapshot: 2026-11-17. 38 of 50 selected video source notes.
+Snapshot: 2026-11-17. 49 of 50 selected video source notes.
 
 ## Concepts
 
@@ -45,12 +45,23 @@ Snapshot: 2026-11-17. 38 of 50 selected video source notes.
 - [[siliconvalleygirl-library-video-27|Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li]]
 - [[siliconvalleygirl-library-video-28|AI-First Playbook: Do a Team's Work With AI (2026) | Peter Yang]]
 - [[siliconvalleygirl-library-video-30|She Raised a YouTube CEO and a Billion-Dollar Founder | Esther Wojcicki, Godmother of Silicon Valley]]
+- [[siliconvalleygirl-library-video-31|$1.5B AI Founder: The Mindset Shift That Separates Winners in 2026]]
+- [[siliconvalleygirl-library-video-32|Airtable CEO: This Is What the Top 1% Do With AI | Howie Liu]]
 - [[siliconvalleygirl-library-video-33|Head of ChatGPT & Codex: agents for normal people are HERE]]
+- [[siliconvalleygirl-library-video-34|Head of Gemini: You're Using 5% of What Gemini Can Actually Do | Josh Woodward]]
+- [[siliconvalleygirl-library-video-35|$4B Founder: The Next 3 Years Will Make 100 New Founders Rich]]
 - [[siliconvalleygirl-library-video-36|Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)]]
+- [[siliconvalleygirl-library-video-37|AI Schools Are Here: How kids learn 2h/day and become top 1% nationally | MacKenzie Price]]
 - [[siliconvalleygirl-library-video-38|6 Profitable AI business ideas for 2026]]
 - [[siliconvalleygirl-library-video-39|Double Your Income With AI in 3 Months (Here's the Stack)]]
+- [[siliconvalleygirl-library-video-40|Start a $10K/Month AI Business in 90 Days — No Code, No Funding, No Team]]
 - [[siliconvalleygirl-library-video-41|AI Safety Expert: No One Is Ready for What's Coming in 2 Years | Roman Yampolskiy]]
+- [[siliconvalleygirl-library-video-42|Duolingo CEO: What I Tell Every Employee About Surviving AI]]
+- [[siliconvalleygirl-library-video-43|Nobel Prize Winner: Nobody Sees What's Coming After AI]]
+- [[siliconvalleygirl-library-video-44|Ex-Amazon AI Leader: In 1 Year, the Gap Between AI Users and Everyone Else Will Be Irreversible]]
 - [[siliconvalleygirl-library-video-45|Ex-Google Exec: How to Position Yourself Now Before the Next AI Phase (2026–2027) | Mo Gawdat]]
 - [[siliconvalleygirl-library-video-46|Gary Vee: The AI Opportunity Is Real — You're Just Looking at It Wrong]]
+- [[siliconvalleygirl-library-video-47|Google VP: The AI Shift Is Done and the Gap Between People Is Growing.Here's How to Stay Ahead]]
 - [[siliconvalleygirl-library-video-48|MIT Professor: The One Skill AI Can't Replace — Most People Are Losing It Right Now | Max Tegmark]]
+- [[siliconvalleygirl-library-video-49|Job Market 2026: Why Everyone Is Getting Laid Off—And How to Be the Exception]]
 - [[siliconvalleygirl-library-video-50|$8B Investor: The Only Career Move AI Can't Replace | Bill Gurley]]

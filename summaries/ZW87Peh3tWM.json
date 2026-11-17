@@ -1,0 +1,65 @@
+{
+  "id": "ZW87Peh3tWM",
+  "title": "Head of Gemini: You're Using 5% of What Gemini Can Actually Do | Josh Woodward",
+  "url": "https://www.youtube.com/watch?v=ZW87Peh3tWM",
+  "rank": 34,
+  "upload_date": "2026-05-21",
+  "duration_seconds": 2013,
+  "transcription_date": "2026-11-17",
+  "source_method": "audio_asr",
+  "source_availability": "audio_asr_based",
+  "timestamp_availability": false,
+  "overview": "Google’s Josh Woodward discusses proposed Gemini agent and voice workflows, organizing personal context for AI, and his approach to testing early products; the conversation mixes present examples with forecasts and vendor claims.",
+  "key_points": [
+    "Woodward presents background agents and integration with Google services as ways to handle digital chores, coordinate calendars and create materials, while acknowledging that the agent product is early-stage.",
+    "The host and Woodward describe voice interfaces that can use context and tools rather than merely transcribe, and he predicts that faster models could change multistep workflows.",
+    "They discuss moving from doing individual steps toward directing outcomes, but Woodward argues that human judgment, taste and collaboration will remain important.",
+    "Both describe giving AI reusable context, such as selected writing or notes; they also recognize the unresolved challenge of choosing relevant sources rather than indiscriminately including everything.",
+    "For early product development, Woodward favors small teams, repeated experiments and watching real people use a prototype before later scaling metrics become central.",
+    "His advice to people beginning careers is to experiment regularly, learn tools’ strengths and weaknesses, and develop adaptability in the face of uncertainty."
+  ],
+  "summary": [
+    "Woodward frames the interview around a shift toward agentic software and a more integrated Google ecosystem. He describes an early Gemini agent that could work in the background, use familiar Google services and create materials, while treating broader media creation, payments and other integrations as developing capabilities rather than established guarantees. His examples for ordinary users include remembering family deadlines, finding time on a calendar, identifying meetings to reconsider and receiving recurring updates on a personal interest. The host also describes the friction of analyzing her YouTube data when a desired connection is unavailable. These examples are product claims and illustrations from a Google executive, not independently verified demonstrations of reliability or present availability.",
+    "The pair discuss voice as more than dictation: the host describes a demonstration that draws on files and email to assemble a response, and Woodward says a model can interpret an instruction, select relevant material and help create an output. He connects this to NotebookLM, where a user assembles source material and asks for a different format, such as an audio overview or a slide deck. His proposed workplace change is from executing each step to directing a desired outcome, potentially requiring more people to manage agents. He also predicts that faster models could shorten iteration and multistep tasks. These are his expectations about product direction, not evidence that all jobs or workflows will change in the way he anticipates.",
+    "The host describes supplying personal principles, voice and factual context to AI. Woodward says he keeps collections of his writing, book notes and highlights, connects personal information on an opt-in basis, and sometimes asks AI to reflect on unproductive habits. The host questions whether connecting too much information makes context selection harder; Woodward acknowledges that interfaces for selecting the right material are still evolving. The practical lesson is to choose relevant sources deliberately, check generated claims against them and consider the privacy implications of connecting email, calendars or personal files. The discussion does not establish the privacy, accuracy or security of any particular setup.",
+    "On product culture, Woodward describes giving small teams room to build, iterating on ideas and watching people interact with early prototypes in real settings. He treats visible user reactions as an early signal of interest, while saying conventional usage and business metrics come later; he acknowledges that deciding when to stop an idea remains uncertain. He encourages career starters to build intuition by trying tools and learning both what they do well and where they fail, alongside adaptability and interpersonal skills. Despite the enthusiasm for automation, he values human judgment and the pleasure of making things with other people. His speculation about children’s future interaction with computers is a hopeful forecast, not a settled outcome."
+  ],
+  "quotes": [
+    {
+      "text": "from doing to directing",
+      "timestamp": null,
+      "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+    },
+    {
+      "text": "speed's a feature",
+      "timestamp": null,
+      "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+    }
+  ],
+  "action_items": [
+    "Editorial adaptation: Pick one low-stakes recurring digital chore, define the desired outcome and review the result before acting on it.",
+    "Editorial adaptation: Give an AI tool a small, relevant set of source documents and check its output against those sources.",
+    "Editorial adaptation: Review data permissions and privacy terms before connecting personal files, email or calendars to an AI service.",
+    "Editorial adaptation: Observe a few intended users trying an early prototype, note friction and iterate before interpreting the observations as proof of demand."
+  ],
+  "resources": [
+    {
+      "label": "NotebookLM (source-based AI notebook discussed)",
+      "url": null
+    },
+    {
+      "label": "Google Docs, Gmail and Calendar (integrations discussed)",
+      "url": null
+    }
+  ],
+  "topics": [
+    "AI",
+    "Product development"
+  ],
+  "caveats": [
+    "This is uncorrected AI-generated ASR from a locally acquired audio file associated with the video; the audio was not listened to, and audio–video equivalence, wording, names, figures, negations and speech coverage are unverified.",
+    "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+    "Product capabilities, rollout timing, performance claims, business observations and forecasts are participant statements and have not been independently checked; features may differ or change.",
+    "No factual or medical claim is independently verified; this material is not medical advice. Consult a qualified clinician for health decisions."
+  ]
+}

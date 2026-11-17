@@ -3,7 +3,7 @@
   "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
   "collected_at_utc": "2026-11-17T08:57:00.435949+00:00",
   "requested_count": 50,
-  "scope": "38 available notes from 50 frozen selected videos",
+  "scope": "49 available notes from 50 frozen selected videos",
   "videos": [
     {
       "rank": 1,
@@ -489,6 +489,40 @@
       "source_method": "audio_asr"
     },
     {
+      "rank": 31,
+      "id": "U7apPfqHgvg",
+      "title": "$1.5B AI Founder: The Mindset Shift That Separates Winners in 2026",
+      "url": "https://www.youtube.com/watch?v=U7apPfqHgvg",
+      "duration_seconds": 2695,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-05-29",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 32,
+      "id": "bzfklNb1wjc",
+      "title": "Airtable CEO: This Is What the Top 1% Do With AI | Howie Liu",
+      "url": "https://www.youtube.com/watch?v=bzfklNb1wjc",
+      "duration_seconds": 1953,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-05-27",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 33,
       "id": "DPe_srf0GlI",
       "title": "Head of ChatGPT & Codex: agents for normal people are HERE",
@@ -505,6 +539,40 @@
       "timestamp_availability": false
     },
     {
+      "rank": 34,
+      "id": "ZW87Peh3tWM",
+      "title": "Head of Gemini: You're Using 5% of What Gemini Can Actually Do | Josh Woodward",
+      "url": "https://www.youtube.com/watch?v=ZW87Peh3tWM",
+      "duration_seconds": 2013,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-05-21",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 35,
+      "id": "ExgNR94SrfI",
+      "title": "$4B Founder: The Next 3 Years Will Make 100 New Founders Rich",
+      "url": "https://www.youtube.com/watch?v=ExgNR94SrfI",
+      "duration_seconds": 3168,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-05-15",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription in UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 36,
       "id": "Baa71rPgxvA",
       "title": "Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)",
@@ -519,6 +587,23 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 37,
+      "id": "WOmRB6jNiSU",
+      "title": "AI Schools Are Here: How kids learn 2h/day and become top 1% nationally | MacKenzie Price",
+      "url": "https://www.youtube.com/watch?v=WOmRB6jNiSU",
+      "duration_seconds": 3535,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-05-08",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 38,
@@ -553,6 +638,23 @@
       "timestamp_availability": false
     },
     {
+      "rank": 40,
+      "id": "ZK-TCkETAFw",
+      "title": "Start a $10K/Month AI Business in 90 Days — No Code, No Funding, No Team",
+      "url": "https://www.youtube.com/watch?v=ZK-TCkETAFw",
+      "duration_seconds": 979,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-04-23",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 41,
       "id": "00RHph_eok4",
       "title": "AI Safety Expert: No One Is Ready for What's Coming in 2 Years | Roman Yampolskiy",
@@ -567,6 +669,57 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 42,
+      "id": "GDeEATJcbJo",
+      "title": "Duolingo CEO: What I Tell Every Employee About Surviving AI",
+      "url": "https://www.youtube.com/watch?v=GDeEATJcbJo",
+      "duration_seconds": 2665,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-04-10",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 43,
+      "id": "vZLY2YGUk4o",
+      "title": "Nobel Prize Winner: Nobody Sees What's Coming After AI",
+      "url": "https://www.youtube.com/watch?v=vZLY2YGUk4o",
+      "duration_seconds": 1347,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-04-08",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 44,
+      "id": "YfRkj9kmQf0",
+      "title": "Ex-Amazon AI Leader: In 1 Year, the Gap Between AI Users and Everyone Else Will Be Irreversible",
+      "url": "https://www.youtube.com/watch?v=YfRkj9kmQf0",
+      "duration_seconds": 3556,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-04-03",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 45,
@@ -601,6 +754,23 @@
       "timestamp_availability": false
     },
     {
+      "rank": 47,
+      "id": "PTZ5iN9nDkY",
+      "title": "Google VP: The AI Shift Is Done and the Gap Between People Is Growing.Here's How to Stay Ahead",
+      "url": "https://www.youtube.com/watch?v=PTZ5iN9nDkY",
+      "duration_seconds": 1149,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-03-24",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 48,
       "id": "KF_uNAxPFFA",
       "title": "MIT Professor: The One Skill AI Can't Replace — Most People Are Losing It Right Now | Max Tegmark",
@@ -615,6 +785,23 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 49,
+      "id": "Dp6u0pel-Rs",
+      "title": "Job Market 2026: Why Everyone Is Getting Laid Off—And How to Be the Exception",
+      "url": "https://www.youtube.com/watch?v=Dp6u0pel-Rs",
+      "duration_seconds": 1142,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-03-16",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Local AI transcription completion time recorded in the private batch attempt report (UTC).",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 50,
@@ -633,6 +820,6 @@
       "timestamp_availability": false
     }
   ],
-  "available_count": 38,
+  "available_count": 49,
   "partial": true
 }

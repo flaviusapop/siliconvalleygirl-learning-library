@@ -1,7 +1,7 @@
 {
   "snapshot_date": "2026-11-17",
   "selected_count": 50,
-  "available_count": 38,
+  "available_count": 49,
   "partial": true,
   "videos": [
     {
@@ -1975,6 +1975,150 @@
       ]
     },
     {
+      "id": "U7apPfqHgvg",
+      "title": "$1.5B AI Founder: The Mindset Shift That Separates Winners in 2026",
+      "url": "https://www.youtube.com/watch?v=U7apPfqHgvg",
+      "rank": 31,
+      "upload_date": "2026-05-29",
+      "duration_seconds": 2695,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The Granola cofounder discusses product discovery, differentiation and AI-assisted work, while the host demonstrates and promotes the meeting-notes product.",
+      "key_points": [
+        "The guest argues cheaper software creation increases competition, making sustained product quality and close attention to user experience more important.",
+        "The team tested prototypes and observed early users struggling before a broader launch; the guest recommends combining strategic market judgment with qualitative feedback.",
+        "He frames differentiation against larger providers around use cases that are both frequent and important to users, while acknowledging uncertainty about the future market.",
+        "He describes a user-by-day activity grid to spot adoption patterns that aggregate usage charts might obscure.",
+        "An internal agent helps retrieve and organize information, but the guest says people still supply decisions and correct its mistakes.",
+        "The conversation promotes meeting-derived context for AI while raising unresolved privacy and consent considerations; the guest warns stale AI memories can mislead."
+      ],
+      "summary": [
+        "The host opens by asking whether easy AI-assisted development eliminates the case for specialized products. Granola’s cofounder argues that lower building costs invite more competitors but do not eliminate the work needed to make a tool genuinely useful. He sees room for both internally built tools and products that receive sustained care. His account is a founder’s perspective, not a tested rule for all markets. He says the team tried several simple prototypes with people in its network and noticed particular interest in a meeting notepad. The group initially built for people resembling themselves: technically comfortable knowledge workers, often at startups.",
+        "Rather than launching broadly at once, he describes watching people install and use the product, fixing the problems observed, and returning to new users repeatedly. He recommends an initially private or limited beta until the experience is meaningfully better, then a broader launch to learn at scale. He combines qualitative observation with a user-by-day activity grid: patterns such as a person stopping and returning, or suddenly becoming a frequent user, can prompt useful questions that a single aggregate curve conceals. The grid suggests hypotheses rather than automatically explaining behavior; a gap might reflect a holiday rather than product failure.",
+        "For competition with large platforms, he suggests looking for a problem that is both frequent enough to form a habit and important enough that a better experience matters. He describes a product-led path from individual users to organization-wide adoption, and credits both product appeal and fortunate early exposure. He also qualifies his marketing advice: products sold to customer-support organizations may need a different sales motion. The interview includes a sponsorship segment for Granola, and both the founder and host have reasons to present it favorably. Their growth and performance claims are not independently verified.",
+        "The guest describes an internal agent that pulls information and assists with routine changes, while humans check its assumptions and make product decisions; he says it can still go off track. Both speakers discuss using meeting records to give AI context and imagine a more unobtrusive assistant. He warns that persistent instructions can become stale as priorities change, and says predictions about AI’s impact are uncertain: it may augment work in some places and disrupt it in others. The host says participants should be told when a conversation is recorded. Consent, applicable law, confidentiality, data retention and errors in generated notes require separate consideration; the discussion does not establish that the proposed workflows are safe or accurate."
+      ],
+      "quotes": [
+        {
+          "text": "Can you care more than everyone else?",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "it still kind of goes off the rails all the time.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Observe a few representative users completing a real task before prioritizing changes.",
+        "Editorial adaptation: Map a proposed product use case by frequency and importance, then test the assumptions with users.",
+        "Editorial adaptation: Review per-user usage patterns and follow up before inferring why behavior changed.",
+        "Editorial adaptation: Obtain appropriate consent and review confidentiality, retention and applicable rules before recording meetings or sharing transcripts with AI."
+      ],
+      "resources": [
+        {
+          "label": "Granola (guest’s product and episode sponsor)",
+          "url": null
+        },
+        {
+          "label": "Claude (AI tool mentioned)",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter (host promotion)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Startups"
+      ],
+      "caveats": [
+        "Unverified AI-generated ASR from locally acquired audio; no audio was heard. Speech coverage, audio–video equivalence, wording, names, numbers and negations are unknown.",
+        "The interviewee is a cofounder of the featured sponsor and the host promotes the product; commercial and AI capability claims are not independently verified."
+      ]
+    },
+    {
+      "id": "bzfklNb1wjc",
+      "title": "Airtable CEO: This Is What the Top 1% Do With AI | Howie Liu",
+      "url": "https://www.youtube.com/watch?v=bzfklNb1wjc",
+      "rank": 32,
+      "upload_date": "2026-05-27",
+      "duration_seconds": 1953,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "Airtable CEO Howie Liu and the host discuss experimenting with AI agents, delegating bounded work, retaining human judgment and the commercial agent product he presents.",
+      "key_points": [
+        "Liu distinguishes earlier chatbot interactions from more autonomous agent workflows, but says agents cannot yet run a substantial company entirely on their own.",
+        "The host describes a content-review bottleneck and considers using an agent informed by feedback; the guest promotes team workflows and messaging integrations.",
+        "Liu describes using an agent to combine billboard-location information, map imagery and creative mockups, as well as to monitor information and draft replies.",
+        "He recommends starting with low-stakes problems, tinkering and describing the desired outcome rather than assuming a universal recipe exists.",
+        "Both participants emphasize human judgment and feedback as more work is delegated; claims about scale and future entrepreneurship are speculative.",
+        "The guest has a commercial interest in the agent product discussed, while the host separately promotes a design service and her newsletter."
+      ],
+      "summary": [
+        "The host asks Airtable CEO Howie Liu how AI tools are changing from chatbots into agents that can carry out longer tasks. Liu describes a progression from code completion to more autonomous development agents and says he sometimes assigns substantial work before sleeping. He expects managing multiple agents to resemble a shift from individual contribution toward management, but explicitly says agents cannot yet run a substantial company entirely on their own. The host remains concerned about responsibility for agent activity and argues that people may still need to supervise it. Their predictions about future autonomy and productivity are not independent performance evidence.",
+        "The host describes a recurring bottleneck: her team needs her feedback on content. She considers giving an agent examples of her taste and letting it offer feedback during busy periods. Liu discusses agent memories, team access and a Telegram integration in HyperAgent, a product he is presenting. His examples include reviewing a set of billboard locations, combining mapping and street-view information with generated creative mockups, monitoring social-media developments, and flagging messages or suggesting responses. He describes the productivity demonstration as a recreated account because his actual communications are sensitive. These are participant-described use cases, not independently tested results. Giving an agent access to team chats, messages or calendars can expose private information and warrants careful access and retention review.",
+        "For beginners, Liu suggests identifying a few specific, low-stakes problems, experimenting and refining the setup. He says no single perfect agent recipe fits every company, and encourages people to think about the outcome they want rather than only their current manual activities. He describes monitoring used-car listings; the host introduces travel planning, which Liu discusses, and also raises a school-email use case. The discussion portrays agents as potentially useful for tasks people would not otherwise hire someone to do, while acknowledging concern about future jobs. No claim that a particular task can be safely or cheaply automated is established by these examples.",
+        "The conversation ends with problem selection and judgment: a person still has to decide what to pursue, assess output and provide feedback. Liu predicts that agents could make small teams and entrepreneurship more viable, and the host is enthusiastic about how quickly people might learn; these are optimistic forecasts, not promises. The discussion is also commercial: Liu recommends his own agent product, the host promotes her newsletter, and a separate promotional segment advertises a design service. Assess such tools, data access, costs and actual outcomes independently rather than treating the conversation as a neutral product comparison."
+      ],
+      "quotes": [
+        {
+          "text": "the tinker mindset is most important",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "I don't think agents can effectively run",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: List repetitive tasks and select one low-stakes problem with an observable result for an initial agent experiment.",
+        "Editorial adaptation: Define a human review step and check a sample of outputs against source information before relying on them.",
+        "Editorial adaptation: Review permissions, privacy, retention and costs before connecting an agent to workplace chats, email or calendars.",
+        "Editorial adaptation: Record feedback and revise the workflow, stopping or narrowing access if errors or unwanted actions occur."
+      ],
+      "resources": [
+        {
+          "label": "HyperAgent, the guest’s agent product discussed and promoted",
+          "url": null
+        },
+        {
+          "label": "Airtable, company led by the guest",
+          "url": null
+        },
+        {
+          "label": "Telegram, messaging integration discussed",
+          "url": null
+        },
+        {
+          "label": "Design.com, promoted design service",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter, promoted by the host",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Work",
+        "Entrepreneurship"
+      ],
+      "caveats": [
+        "This is unverified AI-generated speech recognition from an associated audio file. The audio was not listened to; audio–video equivalence, speech coverage, names, exact numbers and negations remain unverified. It is not a verified verbatim transcript.",
+        "Factual and medical claims are participants’ statements and have not been independently checked; this is not medical, financial or professional advice.",
+        "Product names, model names, performance and cost claims are represented as participants’ statements and have not been independently checked."
+      ]
+    },
+    {
       "id": "DPe_srf0GlI",
       "title": "Head of ChatGPT & Codex: agents for normal people are HERE",
       "url": "https://www.youtube.com/watch?v=DPe_srf0GlI",
@@ -2048,6 +2192,145 @@
       ]
     },
     {
+      "id": "ZW87Peh3tWM",
+      "title": "Head of Gemini: You're Using 5% of What Gemini Can Actually Do | Josh Woodward",
+      "url": "https://www.youtube.com/watch?v=ZW87Peh3tWM",
+      "rank": 34,
+      "upload_date": "2026-05-21",
+      "duration_seconds": 2013,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "Google’s Josh Woodward discusses proposed Gemini agent and voice workflows, organizing personal context for AI, and his approach to testing early products; the conversation mixes present examples with forecasts and vendor claims.",
+      "key_points": [
+        "Woodward presents background agents and integration with Google services as ways to handle digital chores, coordinate calendars and create materials, while acknowledging that the agent product is early-stage.",
+        "The host and Woodward describe voice interfaces that can use context and tools rather than merely transcribe, and he predicts that faster models could change multistep workflows.",
+        "They discuss moving from doing individual steps toward directing outcomes, but Woodward argues that human judgment, taste and collaboration will remain important.",
+        "Both describe giving AI reusable context, such as selected writing or notes; they also recognize the unresolved challenge of choosing relevant sources rather than indiscriminately including everything.",
+        "For early product development, Woodward favors small teams, repeated experiments and watching real people use a prototype before later scaling metrics become central.",
+        "His advice to people beginning careers is to experiment regularly, learn tools’ strengths and weaknesses, and develop adaptability in the face of uncertainty."
+      ],
+      "summary": [
+        "Woodward frames the interview around a shift toward agentic software and a more integrated Google ecosystem. He describes an early Gemini agent that could work in the background, use familiar Google services and create materials, while treating broader media creation, payments and other integrations as developing capabilities rather than established guarantees. His examples for ordinary users include remembering family deadlines, finding time on a calendar, identifying meetings to reconsider and receiving recurring updates on a personal interest. The host also describes the friction of analyzing her YouTube data when a desired connection is unavailable. These examples are product claims and illustrations from a Google executive, not independently verified demonstrations of reliability or present availability.",
+        "The pair discuss voice as more than dictation: the host describes a demonstration that draws on files and email to assemble a response, and Woodward says a model can interpret an instruction, select relevant material and help create an output. He connects this to NotebookLM, where a user assembles source material and asks for a different format, such as an audio overview or a slide deck. His proposed workplace change is from executing each step to directing a desired outcome, potentially requiring more people to manage agents. He also predicts that faster models could shorten iteration and multistep tasks. These are his expectations about product direction, not evidence that all jobs or workflows will change in the way he anticipates.",
+        "The host describes supplying personal principles, voice and factual context to AI. Woodward says he keeps collections of his writing, book notes and highlights, connects personal information on an opt-in basis, and sometimes asks AI to reflect on unproductive habits. The host questions whether connecting too much information makes context selection harder; Woodward acknowledges that interfaces for selecting the right material are still evolving. The practical lesson is to choose relevant sources deliberately, check generated claims against them and consider the privacy implications of connecting email, calendars or personal files. The discussion does not establish the privacy, accuracy or security of any particular setup.",
+        "On product culture, Woodward describes giving small teams room to build, iterating on ideas and watching people interact with early prototypes in real settings. He treats visible user reactions as an early signal of interest, while saying conventional usage and business metrics come later; he acknowledges that deciding when to stop an idea remains uncertain. He encourages career starters to build intuition by trying tools and learning both what they do well and where they fail, alongside adaptability and interpersonal skills. Despite the enthusiasm for automation, he values human judgment and the pleasure of making things with other people. His speculation about children’s future interaction with computers is a hopeful forecast, not a settled outcome."
+      ],
+      "quotes": [
+        {
+          "text": "from doing to directing",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "speed's a feature",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Pick one low-stakes recurring digital chore, define the desired outcome and review the result before acting on it.",
+        "Editorial adaptation: Give an AI tool a small, relevant set of source documents and check its output against those sources.",
+        "Editorial adaptation: Review data permissions and privacy terms before connecting personal files, email or calendars to an AI service.",
+        "Editorial adaptation: Observe a few intended users trying an early prototype, note friction and iterate before interpreting the observations as proof of demand."
+      ],
+      "resources": [
+        {
+          "label": "NotebookLM (source-based AI notebook discussed)",
+          "url": null
+        },
+        {
+          "label": "Google Docs, Gmail and Calendar (integrations discussed)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Product development"
+      ],
+      "caveats": [
+        "This is uncorrected AI-generated ASR from a locally acquired audio file associated with the video; the audio was not listened to, and audio–video equivalence, wording, names, figures, negations and speech coverage are unverified.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "Product capabilities, rollout timing, performance claims, business observations and forecasts are participant statements and have not been independently checked; features may differ or change.",
+        "No factual or medical claim is independently verified; this material is not medical advice. Consult a qualified clinician for health decisions."
+      ]
+    },
+    {
+      "id": "ExgNR94SrfI",
+      "title": "$4B Founder: The Next 3 Years Will Make 100 New Founders Rich",
+      "url": "https://www.youtube.com/watch?v=ExgNR94SrfI",
+      "rank": 35,
+      "upload_date": "2026-05-15",
+      "duration_seconds": 3168,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The Box founder argues that AI agents may expand what individuals and firms can do, while human accountability, integration, customer access and new bottlenecks remain central to work and entrepreneurship.",
+      "key_points": [
+        "The founder sees AI tools as leverage for ambitious newcomers and experienced specialists alike, but says domain expertise matters when deploying and assessing their output.",
+        "He predicts automation will enable some businesses to grow and create different roles, while acknowledging that AI-related layoffs can occur; this is a forecast rather than a demonstrated net employment outcome.",
+        "Agent supervision has costs: people must hold context, review outputs, handle exceptions and accept responsibility, particularly in consequential workflows.",
+        "He sees opportunities in applied AI and deployment services, especially where existing information is scattered across systems; reliable access controls, escalation and integration may matter as much as model capability.",
+        "His proposed startup window is a rough heuristic, not a deadline: competitive feedback loops could strengthen early entrants, but easier building also increases competition and makes customer access more important.",
+        "He suggests learning tools and combining technical fluency with professional skills, while questioning whether AI alone can replace education’s social, networking and transitional functions."
+      ],
+      "summary": [
+        "The host interviews the founder of Box about AI, work and entrepreneurship. He argues that AI can give people entering a field leverage they previously lacked, for example by helping them prototype or communicate an idea, while cautioning that inexperience can also lead to poor use. Experienced practitioners who adopt the tools, in his view, combine that leverage with knowledge of their domain. He recommends learning how agents and their connections to other systems work, but also keeping skills such as customer research, sales, product judgment and marketing. He describes using agents for market research and early design or coding prototypes, followed by source checking or a designer’s work. These are accounts of his practices, not measured demonstrations of reliability.",
+        "On employment, the founder offers an optimistic but qualified scenario. A small firm could use agents to reach customers or build a website, then hire people to handle increased demand and the new operational bottlenecks. He acknowledges that some companies may use AI-related productivity gains to reduce staff and that not every layoff has the same cause; his expectation of broader job growth remains a prediction, not evidence that displaced workers will find equivalent jobs. He emphasizes that production software needs security, maintenance and integration beyond code generation. Managing many agents can itself shift the burden of coordination and context to their human operator. For legal, financial and other consequential tasks, he values a professional who can handle exceptions and take responsibility; that preference does not establish that any particular AI-assisted workflow is safe.",
+        "The founder describes a roughly framed opportunity window for applied AI companies, drawing an analogy with earlier technology shifts. He says accumulating customer data and feedback might strengthen early entrants, but also notes that the exact period is not precise and that a person should not rush into a weak startup idea merely because the market is active. He suggests examining where intelligence might add value, where incumbents respond poorly, and where deploying agents is difficult because data and workflows span legacy systems. In an example involving email and customer records, he worries that an untrusted message could trigger disclosure of sensitive information. Permissions, human review, alerts and a route to escalation would need careful design. The host raises the counterpoint that improving models might make such integration easier; the founder remains skeptical that model capability alone solves these operational problems.",
+        "They also discuss products that could be displaced by model providers adding similar features. The founder suggests testing whether a business retains value through trusted workflows, compliance, integration or real-world human work, while acknowledging the landscape is uncertain. If creating software becomes easier, he argues, distribution, customer conversations and sales may become the next constraints. He distinguishes routine support requests from unusual cases that still need escalation and gives an anecdote about a lawyer providing context that chatbots did not. Near the end, he weighs AI-enabled access to information against college’s networking, social and transition roles; he is uncertain how the institution will change and wants costs reduced. The episode also includes a promotional agent-interoperability segment and the host’s newsletter promotion; these are not independent validation of their claims."
+      ],
+      "quotes": [
+        {
+          "text": "The work has to be reviewed.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "there's always the exception.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Map one bounded workflow, its inputs, permissions, failure modes and accountable human before testing an agent.",
+        "Editorial adaptation: Check underlying sources and review outputs before using AI-generated research or designs.",
+        "Editorial adaptation: Interview potential customers and test distribution assumptions before treating an AI prototype as a business.",
+        "Editorial adaptation: Build technical fluency alongside a relevant domain skill, and assess where human escalation is needed."
+      ],
+      "resources": [
+        {
+          "label": "Box (founder’s enterprise software company)",
+          "url": null
+        },
+        {
+          "label": "Codex (AI tool discussed)",
+          "url": null
+        },
+        {
+          "label": "Perplexity (AI tool discussed)",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter (host promotion)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Entrepreneurship",
+        "Future of Work"
+      ],
+      "caveats": [
+        "Unverified AI-generated ASR of a locally acquired audio file associated with the video; the audio was not listened to. Audio–video equivalence, speech coverage, names, numbers, negations and exact wording are unverified.",
+        "AI transcription is unverified; timing coverage cannot establish completeness.",
+        "Claims about AI capabilities, employment, markets and business prospects are participants’ views or predictions and were not independently fact-checked; promotional material has a commercial context.",
+        "Examples involving legal, financial and medical decisions are not professional advice. Do not rely on this draft or an AI tool for diagnosis, treatment, legal or financial decisions; consult an appropriate qualified professional."
+      ]
+    },
+    {
       "id": "Baa71rPgxvA",
       "title": "Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)",
       "url": "https://www.youtube.com/watch?v=Baa71rPgxvA",
@@ -2115,6 +2398,72 @@
         "The captions contradict themselves about whether a successful reel was under five seconds or 45 seconds; the correct length cannot be established without source audio.",
         "Efficiency and visibility figures are the host's anecdotes, not independently verified results. The connector demonstration and newsletter are promotional; the captions do not establish whether the connector segment is sponsored.",
         "Frozen watch duration is 960 seconds; other frozen tab/microformat metadata says 961 seconds. The final long block starts at 14:13 and its start is not an end timestamp."
+      ]
+    },
+    {
+      "id": "WOmRB6jNiSU",
+      "title": "AI Schools Are Here: How kids learn 2h/day and become top 1% nationally | MacKenzie Price",
+      "url": "https://www.youtube.com/watch?v=WOmRB6jNiSU",
+      "rank": 37,
+      "upload_date": "2026-05-08",
+      "duration_seconds": 3535,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The founder of an AI-supported school describes its approach to mastery, motivation and life skills, while the host raises questions about academic support, screen time and access.",
+      "key_points": [
+        "Price says the school day is full-length, with a shortened academic block and additional time for projects and life skills; she reports strong assessment results, which are not independently verified.",
+        "The school describes adult guides as motivation and coaching specialists, with academic coaches available when students continue to struggle.",
+        "The host questions whether following a child’s existing interests is sufficient; Price argues for using those interests as starting points for deeper, challenging projects.",
+        "Price distinguishes purposeful interactive screen use from passive screen time and says students also read books and work with human reading specialists.",
+        "The discussion includes costly private-school and homeschooling options, limitations on how much families can supplement school, and speculative changes to work from AI."
+      ],
+      "summary": [
+        "The host compares her demanding childhood education with her children’s experience and asks whether difficulty itself can build resilience. Price argues for high standards together with strong support, and says resilience can be taught without keeping children bored or unsupported. In her account, one-paced instruction can leave some students waiting while others fall behind. She describes Alpha as a full-day school that compresses core academics into a shorter block using individualized practice and mastery before advancement. She reports exceptional standardized-test results and gives an assessment as the basis for measuring progress. These are claims from someone running the school, not an independently established comparison or evidence that the approach works for every child. She also notes that the high-school academic block is longer than the two-hour shorthand.",
+        "Asked whether the school lacks teachers and what happens when a child cannot understand a difficult idea, Price says its adults are called guides and concentrate on motivation, coaching and broader activities rather than delivering academic content. She describes alternative explanations, review of earlier concepts and access to academic coaching calls. Her argument is that support and appropriate challenge can build competence and confidence; the interview does not independently test the quality or availability of those supports. The host presses a different concern: a young person’s current passion may not reveal what will be useful later. Price responds that a guide can treat an interest as a starting point for research or an ambitious project, rather than simply indulge it or force a choice between interest and academic rigor.",
+        "On screen time, Price says younger children spend less time on devices, differentiates interactive learning from using a screen for its own sake, and says the school uses books, handwriting and individual reading with humans. She describes practical and physical activities outside the academic block. The host asks whether families can reproduce parts of the model at home; Price mentions a paid homeschool program, an independent math app and family projects, while acknowledging that a conventional school day and homework leave limited time for supplements. She describes an expensive private-school tier, so access and affordability remain material considerations rather than solved problems.",
+        "Price also says the school monitors student computer activity to discourage chatbot shortcuts and support coaching; the interview does not establish the privacy implications of that monitoring. For adults, she suggests choosing a subject of genuine interest, identifying knowledgeable sources and keeping a growing record of what one learns. She sees AI changing professional work, but her timing and employment predictions are speculative. The final practical suggestion is to ask a child an open-ended question about their curiosity and explore it together. A named video-generation service appears in a sponsor segment; its promotional claims and the school’s educational claims are not independently assessed here."
+      ],
+      "quotes": [
+        {
+          "text": "high standards and we believe high standards are key",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "what are the things you enjoy doing?",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Ask a learner what they are curious about and jointly design a small, appropriately challenging project.",
+        "Editorial adaptation: If someone is stuck on a subject, check prerequisite concepts and seek a human explanation when needed.",
+        "Editorial adaptation: Ask a school about its assessment methods, student support, monitoring practices and total costs before judging its fit.",
+        "Editorial adaptation: Explore an interest by identifying sources and maintaining a revisable learning record."
+      ],
+      "resources": [
+        {
+          "label": "Alpha School and Alpha Anywhere (guest’s school and paid homeschool offering)",
+          "url": null
+        },
+        {
+          "label": "Math Academy (independent math app mentioned by the guest)",
+          "url": null
+        },
+        {
+          "label": "HeyGen (sponsor segment)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Education"
+      ],
+      "caveats": [
+        "Unverified AI-generated ASR from locally acquired audio; no audio was heard. Speech coverage, audio–video equivalence, wording, names, numbers and negations are unknown.",
+        "The guest operates the school and has a direct interest in its success; performance, educational, developmental and employment claims are not independently checked."
       ]
     },
     {
@@ -2278,6 +2627,76 @@
       ]
     },
     {
+      "id": "ZK-TCkETAFw",
+      "title": "Start a $10K/Month AI Business in 90 Days — No Code, No Funding, No Team",
+      "url": "https://www.youtube.com/watch?v=ZK-TCkETAFw",
+      "rank": 40,
+      "upload_date": "2026-04-23",
+      "duration_seconds": 979,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The host assembles entrepreneur interviews into a proposed AI-business launch playbook, with ambitious and unverified revenue targets.",
+      "key_points": [
+        "The host presents small AI-assisted businesses as an alternative to pursuing venture-scale funding.",
+        "Guests suggest narrowing a target niche and identifying existing service work or imperfect solutions.",
+        "A voice-agent provider suggests helping local businesses with appointment scheduling, an idea rather than demonstrated results.",
+        "Participants propose organic distribution, early customer revenue and repeated iteration; outcomes and timelines are not assured.",
+        "An email-marketing product is promoted within the video, including unverified performance claims."
+      ],
+      "summary": [
+        "The host introduces a compilation of conversations with entrepreneurs about starting an AI-assisted business without an existing team or outside funding. The framing emphasizes modestly scoped products and early revenue instead of headline valuations. An entrepreneur describes an app-plus-organic-content approach; the Replit founder discusses a domain expert building a specialized application and suggests communicating extensively with the coding agent and persevering through iterations. These stories and projected earnings are participant claims, not independently verified examples or evidence that building and selling a product is effortless.",
+        "An OpusClip executive advises segmenting a potential market very narrowly, including by customer type and price positioning, and looking for less glamorous work where agencies, freelancers or makeshift internal tools already provide a service. The host gives a personal example involving paid, generated coloring pages. An ElevenLabs executive suggests adapting voice agents for local appointment scheduling, such as at a mechanic or dental office, while learning the domain and speaking to potential customers. This is a proposed service model, not proof of demand, profitability, compliance or safe deployment; handling appointments can involve sensitive information and requires appropriate safeguards.",
+        "The later compilation discusses seeking early paying customers, experimenting with organic social posts and creator distribution, and deciding whether venture funding fits the business. One founder offers ambitious early revenue milestones, but these are aspirations and anecdotes rather than reliable forecasts. Another account describes repeated launches and changing a product’s presentation after earlier attempts failed. The host concludes with a compressed launch checklist and promotes her newsletter. A separate sponsored email-marketing segment includes performance, migration and discount claims; none are independently checked. The proposed pace, lack of funding and target income should not be treated as promises or financial advice."
+      ],
+      "quotes": [
+        {
+          "text": "pick a really, really, really small niche",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "iteration, iteration, iteration.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Interview a small set of prospective customers about a specific recurring problem before selecting a product.",
+        "Editorial adaptation: Test a limited prototype and assess whether customers will pay, without assuming the suggested income or timeline.",
+        "Editorial adaptation: Review privacy, consent and security requirements before handling appointment or customer data.",
+        "Editorial adaptation: Track distribution experiments and revise the message based on observed results."
+      ],
+      "resources": [
+        {
+          "label": "Replit (AI-assisted development platform discussed)",
+          "url": null
+        },
+        {
+          "label": "ElevenLabs (voice-agent provider discussed)",
+          "url": null
+        },
+        {
+          "label": "Email-marketing service (sponsored promotion; ASR spelling uncertain)",
+          "url": null
+        },
+        {
+          "label": "Host newsletter checklist (promoted)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Entrepreneurship",
+        "Marketing"
+      ],
+      "caveats": [
+        "Unverified AI-generated speech recognition from locally acquired audio associated with this video; audio was not listened to, and audio–video equivalence and speech coverage are not established. Names, numbers, negations and speaker attribution may be wrong.",
+        "Participant statements, business claims and forecasts were not independently verified; the material is not financial or medical advice."
+      ]
+    },
+    {
       "id": "00RHph_eok4",
       "title": "AI Safety Expert: No One Is Ready for What's Coming in 2 Years | Roman Yampolskiy",
       "url": "https://www.youtube.com/watch?v=00RHph_eok4",
@@ -2335,6 +2754,201 @@
         "Public native web_extract captions have unknown track origin and may contain recognition errors; a natural ending is visible, but speech-level completeness and audio accuracy are not independently verified. Block-start times are not quote-level timestamps.",
         "The guest's job-loss, robot, AGI, uncontrollability, investment and policy claims are forecasts or assertions, not independently established facts; the interview does not substantiate his numerical claims or resolve competing views.",
         "The host includes a promotional segment for Hicksfield; product performance and view-count claims are not independently verified."
+      ]
+    },
+    {
+      "id": "GDeEATJcbJo",
+      "title": "Duolingo CEO: What I Tell Every Employee About Surviving AI",
+      "url": "https://www.youtube.com/watch?v=GDeEATJcbJo",
+      "rank": 42,
+      "upload_date": "2026-04-10",
+      "duration_seconds": 2665,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The Duolingo CEO discusses AI-assisted work, product choices, learning and uncertain workforce changes in an interview with the host.",
+      "key_points": [
+        "The CEO says employees use AI for prototypes and coding, but the company stepped back from assessing AI use for its own sake.",
+        "He describes a chess course prototyped by two employees, while noting technical knowledge and later engineering involvement.",
+        "He reports uneven productivity gains and says AI-generated code and content can require difficult debugging or human checks.",
+        "He argues language learning remains relevant despite translation, partly because motivations include both practical need and hobbies.",
+        "He describes a strategy prioritizing user growth over near-term monetization, alongside uncertain predictions about jobs."
+      ],
+      "summary": [
+        "The host asks the Duolingo CEO how the company applies AI. He describes engineers changing coding workflows and product managers building prototypes to communicate ideas, rather than relying only on written proposals. A company-wide coding exercise and employee channels for practices and failures are presented as ways to learn from colleagues. He says a prior plan to make AI use part of performance reviews was reversed: outcomes should matter more than using a tool when it does not fit. His account is a company leader’s description, not an independent assessment of implementation or employee experience.",
+        "As an example, he describes two employees developing an initial chess-course prototype and curriculum with AI. His fuller account qualifies the opening setup: one employee had some technical knowledge, and engineers helped produce the version included in the app. The employees researched existing learning tools, built chess puzzles, and iterated on mobile prototypes. He says AI struggled with puzzle generation and describes using an existing puzzle database to improve it. He encourages beginners to experiment while learning basic programming concepts. He also says AI-generated code can be hard to debug when it fails and generated stories may require checking or spot-checking. He does not claim a uniform company-wide productivity multiplier; gains are uneven and collaboration and existing code remain constraints.",
+        "The discussion then turns to AI translation and competition. The CEO believes many people learn languages for enjoyment or practical reasons that translation alone will not remove, while acknowledging that some uses and translation work may change. He expects user expectations for intelligent features to rise and describes plans to make conversation practice available at lower price tiers as costs fall; these are company plans, not guarantees. He says he uses AI for research but retains responsibility for decisions. The host separately promotes a meeting-notes product and her newsletter; the product claims are promotional and unverified.",
+        "The CEO says the company has not conducted layoffs and frames continued hiring as valuable when workers are productive; this is his statement, not an independently checked employment history. He describes shifting toward user growth even at a near-term monetization cost, acknowledging investor resistance. On future jobs he expresses uncertainty: he expects some roles to change and some employers to need fewer staff, while seeing continuing human roles in teaching and project management. His comments about future workforce demand and company performance are forecasts, not investment or career guarantees. He also describes using a longer time horizon to put setbacks in perspective and notes that he still reacts emotionally to company metrics."
+      ],
+      "quotes": [
+        {
+          "text": "we backtracked and we said, no, look,",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "ultimately the decisions are made by me.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Identify one small work task where an AI-assisted prototype could be evaluated against the existing approach.",
+        "Editorial adaptation: Compare the finished outcome and debugging effort, rather than treating AI use itself as success.",
+        "Editorial adaptation: Check generated code or content for errors before relying on it."
+      ],
+      "resources": [
+        {
+          "label": "Cursor (coding tool discussed)",
+          "url": null
+        },
+        {
+          "label": "Granola (meeting-notes product promoted by host)",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter (host promotion)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Work",
+        "Education"
+      ],
+      "caveats": [
+        "Unverified AI-generated speech recognition from locally acquired audio associated with this video; audio was not listened to, and audio–video equivalence and speech coverage are not established. Names, numbers, negations and speaker attribution may be wrong.",
+        "Participant statements, business claims and forecasts were not independently verified; the material is not financial or medical advice."
+      ]
+    },
+    {
+      "id": "vZLY2YGUk4o",
+      "title": "Nobel Prize Winner: Nobody Sees What's Coming After AI",
+      "url": "https://www.youtube.com/watch?v=vZLY2YGUk4o",
+      "rank": 43,
+      "upload_date": "2026-04-08",
+      "duration_seconds": 1347,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "A quantum-computing researcher discusses possible applications, hardware and algorithmic challenges, cryptographic risks and his personal experience of scientific setbacks.",
+      "key_points": [
+        "The guest describes quantum effects in a macroscopic electrical circuit as an early experiment that later research built upon.",
+        "Molecular and materials simulation are potential applications, but useful systems require hardware and algorithmic progress.",
+        "He favors building scalable, error-corrected hardware and presents this as his company’s thesis rather than a demonstrated result.",
+        "He calls a five-to-ten-year security threat timeline optimistic and says preparations for quantum-safe cryptography are already under way.",
+        "The cryptocurrency discussion is tentative; the guest says he is not an expert on the subject.",
+        "He describes an unexpected career setback as a prompt to rethink his approach to hardware."
+      ],
+      "summary": [
+        "The host frames the interview around quantum computing and possible consequences for existing technology. The guest describes experiments in which a comparatively large electrical circuit exhibited quantum behavior, including tunneling. He explains that later work built on this physics as researchers developed qubits and pursued quantum computers. The host’s compressed historical framing should not be treated as a complete account of the field. As an example of a possible use, the guest discusses simulating molecules and materials: better simulation might give researchers insight before physical experiments, potentially helping drug discovery. This is a proposed application, not evidence of a specific treatment or medical result.",
+        "He stresses a gap between present capabilities and useful large-scale machines. Better hardware and more effective algorithms must develop together: improved machines can help researchers test algorithms and clarify what further hardware is needed. His company’s strategy is to work toward scalable, error-corrected hardware using more established semiconductor fabrication methods. He contrasts this with the lower entry cost of algorithm work and acknowledges that startup plans may require a pivot. When the host cites a large economic forecast, he calls it an optimistic scenario contingent on finding useful applications. His company interest is relevant to his argument for hardware investment.",
+        "The host raises cryptocurrency and encryption. The guest cautiously describes possible vulnerabilities for older assets and the need to improve protection; he explicitly says he is not an expert in that area. He presents a sufficiently capable quantum computer within five to ten years as a possible, optimistic scenario and a reason to prepare, not a prediction of a guaranteed breach. He also points to existing work on quantum-safe cryptography and notes that security approaches need sustained scrutiny. The host mentions a specific fast-breaking claim in her introduction, but the interview does not establish that such an attack is presently practical. Readers should not treat the discussion as operational security or investment advice.",
+        "Toward the end, the guest reflects on projects that did not unfold as planned. He recounts leaving a research group after a management change and says the difficult experience gave him room to rethink the path to scalable hardware with co-founders. He also describes the surprise and personal experience of learning about his prize. These are his retrospective interpretations, not a general guarantee that setbacks lead to success. The host promotes a recording-and-summary device and her newsletter in the episode; the source does not independently establish the device’s accuracy claims or whether the promotion was sponsored."
+      ],
+      "quotes": [
+        {
+          "text": "we have to make better qubits",
+          "timestamp": null,
+          "label": "Unverified, untimed machine-generated ASR excerpt; wording not verified against speech"
+        },
+        {
+          "text": "that's an optimistic scenario",
+          "timestamp": null,
+          "label": "Unverified, untimed machine-generated ASR excerpt; wording not verified against speech"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Separate proposed quantum applications from demonstrated present-day capabilities when evaluating a claim.",
+        "Editorial adaptation: For a security review, ask qualified specialists about cryptographic inventory and migration planning rather than relying on a forecast.",
+        "Editorial adaptation: Treat business and market projections as scenarios with assumptions, and independently verify them before making decisions."
+      ],
+      "resources": [
+        {
+          "label": "Zero to One (book mentioned by the guest)",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter",
+          "url": null
+        }
+      ],
+      "topics": [
+        "Quantum Computing",
+        "AI"
+      ],
+      "caveats": [
+        "This is unverified AI-generated speech recognition from an acquired audio file associated with this video; the audio was not heard. Speech coverage and audio–video equivalence are unknown, and names, numbers, negations and exact wording may be wrong. It is not a verified verbatim transcript.",
+        "Quantum, security and commercial claims are participant statements or forecasts, not independently verified; no medical, investment or security advice is provided. The guest’s name is omitted because its spelling is not confirmed by the frozen title."
+      ]
+    },
+    {
+      "id": "YfRkj9kmQf0",
+      "title": "Ex-Amazon AI Leader: In 1 Year, the Gap Between AI Users and Everyone Else Will Be Irreversible",
+      "url": "https://www.youtube.com/watch?v=YfRkj9kmQf0",
+      "rank": 44,
+      "upload_date": "2026-04-03",
+      "duration_seconds": 3556,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "An AI adviser demonstrates ways to organize context and delegate recurring work to agents, while stressing judgment and describing uncertain implications for teams and income.",
+      "key_points": [
+        "The guest describes scheduled briefings and email follow-ups as examples of recurring work delegated to AI agents.",
+        "A morning-brief demonstration starts without calendar or email access, then iterates on content, delivery and format.",
+        "She recommends reusable context documents and task-specific skills to avoid supplying the same background repeatedly.",
+        "She argues that AI output requires human judgment and expert review, particularly outside one’s own field.",
+        "Her forecasts about self-learning, personalization and employment are possibilities, not demonstrated outcomes.",
+        "The host promotes a workflow product and a newsletter within the episode."
+      ],
+      "summary": [
+        "The guest contrasts an assistant that answers individual questions with systems that can perform delegated tasks and report back. She describes scheduled industry briefings, meeting preparation and a weekly review of unanswered messages in her own workflow. These are self-reported examples, not independently measured productivity results. To find a starting point, she suggests describing a repeated frustration in ordinary language and asking the assistant to interview the user about the intended result. In their demonstration, the host and guest request an industry and events briefing without initially granting email or calendar access. They choose a delivery time and document format, examine a sample and discuss refining it with links and other details. The account illustrates an iterative approach, not proof that every named tool currently works the same way.",
+        "They distinguish a reusable task instruction or “skill” from the context it can draw upon. The guest suggests beginning with documents about personal values, current goals and business strategy, then organizing examples and templates so that work can reflect actual priorities. Such material can be revised; the host also discusses using different project areas for separate channels and broader cross-cutting work. The guest describes using context to tailor client communications, with her own review. These recommendations involve sharing potentially sensitive information with tools; access, retention and security need independent assessment before connecting accounts or supplying personal, client or business records.",
+        "The guest warns against treating convincing output as automatically correct. She suggests that subject expertise makes errors easier to spot and describes using AI to prepare legal questions before consulting her lawyer, rather than replacing that review. The speakers recount a study and examples of overreliance, but the conversation itself does not establish their details or causal explanations. The guest advocates maintaining curiosity, practicing judgment and learning from experienced people. Her suggestion to compare multiple AI systems is not independent verification: systems can repeat the same errors. Review consequential decisions and consult appropriate professionals.",
+        "Looking ahead, the guest speculates about systems that adapt, personalized outputs and agents communicating on people’s behalf, while emphasizing the continuing importance of personal relationships. On staffing, she describes two possible employer responses: reducing headcount or using existing staff to take on work that was previously infeasible. Neither outcome is guaranteed. When asked about income she explicitly declines to promise an increase, noting that some people may accept a temporary reduction while changing fields and discussing stability and diversification. These views are not financial advice. A product demonstration and newsletter invitation appear as promotional material; the transcript alone does not establish a sponsorship arrangement."
+      ],
+      "quotes": [
+        {
+          "text": "it starts with a complaint",
+          "timestamp": null,
+          "label": "Unverified, untimed machine-generated ASR excerpt; wording not verified against speech"
+        },
+        {
+          "text": "The answer is you don't",
+          "timestamp": null,
+          "label": "Unverified, untimed machine-generated ASR excerpt; wording not verified against speech"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Identify one low-risk recurring task and write down the desired result, source inputs and review step before trying automation.",
+        "Editorial adaptation: Draft a small reusable context note, keeping sensitive data out until access and retention terms have been assessed.",
+        "Editorial adaptation: Check a sample output against reliable evidence and seek qualified advice for consequential legal or financial decisions.",
+        "Editorial adaptation: Revisit the workflow after using it and adjust the instructions based on observed errors and usefulness."
+      ],
+      "resources": [
+        {
+          "label": "Miro AI Workflows (product demonstration)",
+          "url": null
+        },
+        {
+          "label": "Claude and Claude Code (tools discussed)",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Productivity"
+      ],
+      "caveats": [
+        "This is unverified AI-generated speech recognition from an acquired audio file associated with this video; the audio was not heard. Speech coverage and audio–video equivalence are unknown, and names, numbers, negations and exact wording may be wrong. It is not a verified verbatim transcript.",
+        "Productivity and business results are participant claims, not independently verified; individual outcomes can differ. Financial comments are not financial advice."
       ]
     },
     {
@@ -2473,6 +3087,76 @@
       ]
     },
     {
+      "id": "PTZ5iN9nDkY",
+      "title": "Google VP: The AI Shift Is Done and the Gap Between People Is Growing.Here's How to Stay Ahead",
+      "url": "https://www.youtube.com/watch?v=PTZ5iN9nDkY",
+      "rank": 47,
+      "upload_date": "2026-03-24",
+      "duration_seconds": 1149,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The host frames AI adoption as a set of changing work and education practices, interleaving her own views with a Google research leader’s perspective on adaptation and human ingenuity.",
+      "key_points": [
+        "The host distinguishes agents that execute multi-step tasks from ordinary chatbot questions and describes her own social-content monitoring workflow.",
+        "The guest discusses generative interfaces and suggests users can express what they want rather than writing every application component themselves.",
+        "Both emphasize judgment, problem solving and continued learning, though their optimistic claims about skills and jobs are predictions rather than established outcomes.",
+        "The guest calls familiar, unobtrusive technology ambient intelligence and describes an experimental way to tailor educational material to learners.",
+        "The guest offers flood forecasting as an example of applying AI to a previously difficult problem; the quantitative claims were not independently checked."
+      ],
+      "summary": [
+        "The host organizes the episode around several AI trends and introduces a Google research leader, Yossi Matias, as a guest. She contrasts asking a chatbot for an answer with delegating tasks to an agent, describing her own experiment with monitoring social-media activity and receiving ideas for scripts. She also describes “vibe coding” as expressing an idea in ordinary language and having AI produce code. These examples represent her experience and expectations, not an independent measurement of the reliability, security, labor savings or quality of such tools. The episode includes several precise statistics about businesses and productivity; neither those numbers nor their interpretation have been verified here.",
+        "The guest discusses a generative-interface experiment in which a prompt can produce an interactive experience, and he expects AI to amplify human ingenuity rather than settle what people should value or pursue. Asked about hiring, he emphasizes thinking, problem solving, adaptability and learning as technology changes, including for experienced engineers. He suggests feedback and tutoring may help people acquire skills faster. The host adds her own emphasis on taste and judgment: a polished report is not the same thing as deciding what matters or where a team should go. These are participants’ interpretations and forecasts, not guarantees about hiring or a particular worker’s future.",
+        "The guest calls familiar tools that people use without thinking about the underlying technology “ambient intelligence,” using autocomplete, voice and translation as examples. In education he describes an early experiment that would adapt a textbook’s language, format and examples to a learner’s interests. The host imagines longer-term advantages from personalized tutoring, but the conversation does not establish educational outcomes or a proven advantage for children. The guest also describes flood prediction as a climate-resilience application and mentions a medical development model. His reported reach and other exact figures are unverified, and mentioning a medical model does not establish its suitability for clinical care. The host includes a promotional segment for an email-marketing service and mentions her newsletter; product assertions are not independent evidence."
+      ],
+      "quotes": [
+        {
+          "text": "the ability to think,",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "This is how I'd like us to build our systems,",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Choose a low-stakes recurring task and test whether an agent improves it, reviewing the result before acting.",
+        "Editorial adaptation: Practice evaluating an AI-generated report for evidence, errors and relevance rather than judging its polish.",
+        "Editorial adaptation: Compare an adapted learning explanation with a reliable source and check whether the learner actually understands it."
+      ],
+      "resources": [
+        {
+          "label": "Google Gemini dynamic view and generative UI experiment",
+          "url": null
+        },
+        {
+          "label": "NotebookLM, discussed for adapting learning material",
+          "url": null
+        },
+        {
+          "label": "Perplexity Computer, discussed as an agent tool",
+          "url": null
+        },
+        {
+          "label": "Omnisend, email marketing service in a promotional segment (name transcribed uncertainly)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Work",
+        "Education"
+      ],
+      "caveats": [
+        "This is unverified AI-generated speech recognition from an associated audio file. The audio was not listened to; audio–video equivalence, speech coverage, names, exact numbers and negations remain unverified. It is not a verified verbatim transcript.",
+        "Factual and medical claims are participants’ statements and have not been independently checked; this is not medical, financial or professional advice.",
+        "Watch metadata records 1,149 seconds while the saved Videos-tab duration is 1,150 seconds; watch metadata is the frozen duration used here."
+      ]
+    },
+    {
       "id": "KF_uNAxPFFA",
       "title": "MIT Professor: The One Skill AI Can't Replace — Most People Are Losing It Right Now | Max Tegmark",
       "url": "https://www.youtube.com/watch?v=KF_uNAxPFFA",
@@ -2530,6 +3214,75 @@
         "Title and URL came from extraction metadata outside the body; frozen watch metadata and previously recorded public-index snippets corroborate identity, with residual provenance uncertainty.",
         "The MIT, employment, polling and chatbot-related claims are speakers' reports, not independently verified research or causal findings. The HubSpot playbook segment is sponsored.",
         "Frozen watch duration is 900 seconds; other frozen tab/microformat metadata says 901 seconds. The final caption block starts at 14:57 and does not establish exact end timing."
+      ]
+    },
+    {
+      "id": "Dp6u0pel-Rs",
+      "title": "Job Market 2026: Why Everyone Is Getting Laid Off—And How to Be the Exception",
+      "url": "https://www.youtube.com/watch?v=Dp6u0pel-Rs",
+      "rank": 49,
+      "upload_date": "2026-03-16",
+      "duration_seconds": 1142,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The host and a World Economic Forum guest discuss AI-related layoff narratives, the changing mix of work and a practical approach to developing career skills; their claims and forecasts are not independently verified.",
+      "key_points": [
+        "The host contrasts companies’ AI explanations for layoffs with a guest’s account that some firms may also use the moment to address earlier overhiring; she does not establish any individual employer’s true motive.",
+        "The host describes research as distinguishing theoretical AI exposure from observed use and says hiring patterns may change before existing jobs disappear; these are her characterization of the research, not verified findings.",
+        "Her team’s reported use of AI for production and a decision not to hire a scriptwriter illustrate a possible shift in tasks and hiring rather than proof of economy-wide effects.",
+        "The guest describes employer expectations of reskilling, including the difficulty of moving some workers into different industries, and points to both declining and growing occupations.",
+        "The host separates repeatable tasks from context-dependent judgment and proposes combining human skills, practical AI use and domain expertise; the categories are a heuristic, not a guarantee of safety.",
+        "The guest recommends collaboration for students; the host suggests progressively trying a tool, building a small improvement and practicing a human skill with others."
+      ],
+      "summary": [
+        "The host frames layoffs attributed to AI as a question rather than a simple causal story. She recounts company announcements and asks a World Economic Forum guest whether firms may also be using AI as a convenient explanation for correcting past overhiring. The guest relays an unnamed person’s view, which is indirect and does not establish the reason for any particular layoff. The host then describes a study in terms of a distinction between tasks that could theoretically be exposed to AI and work where people actually use it. She says the pattern may show up in slower hiring, particularly for younger workers, before a pronounced rise in unemployment. The study and these interpretations were not independently checked.",
+        "The host offers her own operation as an example: her team reportedly uses AI in research, scripts, translation and production, and she says a tool reduced the need to hire someone for a particular scriptwriting task. She interprets this as work being redistributed within jobs, not simply every occupation disappearing. The guest discusses employer expectations about reskilling and the possibility that some workers may need to move beyond their current industry. She also points to occupations she expects to grow as well as administrative and customer-service work facing pressure. These are survey-based expectations and participant interpretations, not verified forecasts or a guarantee about any individual career.",
+        "To make the issue actionable, the host proposes distinguishing routine, repeatable tasks from judgment, relationships and context. She presents physical and interpersonal work as potentially less exposed, while acknowledging that safer does not mean permanently safe. Her suggested combination is human skills such as communication and self-management, practical experience with AI tools, and domain knowledge to assess outputs. The guest adds that employers may say they want interpersonal skills without consistently assessing them, and recommends group projects as a way for students to practice collaboration. The distinction is a useful exercise in examining work, but neither task categories nor tool adoption can predict a person’s job security.",
+        "The host organizes her suggested practice into stages: try a tool on current work or study, create a small improvement, and deliberately practice a human skill in a shared project. The guest closes with an optimistic argument for adaptability during disruption. Readers can adapt the exercise to their own circumstances, check outputs and protect confidential information; none of these steps guarantees employment. The episode’s labor-market claims, numbers and company motives remain unverified, and the AI-generated source may mishear or omit speech."
+      ],
+      "quotes": [
+        {
+          "text": "The tasks inside those jobs are being reshuffled.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "work together, collaborate,",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: List recurring work tasks and distinguish routine steps from decisions requiring context, accountability or relationships.",
+        "Editorial adaptation: Test one permitted AI-assisted workflow on non-sensitive material and independently check its output.",
+        "Editorial adaptation: Build a small collaborative project and deliberately practice communication or negotiation.",
+        "Editorial adaptation: Review privacy, confidentiality and workplace rules before entering information into an AI service."
+      ],
+      "resources": [
+        {
+          "label": "World Economic Forum Future of Jobs report (discussed)",
+          "url": null
+        },
+        {
+          "label": "AI labor-market impact research described by the host",
+          "url": null
+        },
+        {
+          "label": "Related episode with the CEO of LinkedIn on the future of jobs (mentioned)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Careers"
+      ],
+      "caveats": [
+        "Uncorrected AI-generated ASR from locally acquired audio associated with this video; the original audio was not listened to. Audio–video equivalence, speech coverage, names, numbers and negations are unverified; it is not a verified verbatim transcript.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "Statements about layoffs, labor research, job safety, employers and future trends are participant claims or predictions, not independently verified facts.",
+        "References to medical occupations do not constitute medical advice; consult a qualified clinician for health decisions."
       ]
     },
     {
