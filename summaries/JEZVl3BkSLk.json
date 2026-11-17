@@ -1,0 +1,68 @@
+{
+  "id": "JEZVl3BkSLk",
+  "title": "Superhuman CEO: How to Position Yourself Now Before the Next AI Phase (2026–2027)",
+  "url": "https://www.youtube.com/watch?v=JEZVl3BkSLk",
+  "rank": 15,
+  "upload_date": "2026-09-08",
+  "duration_seconds": 2329,
+  "transcription_date": "2026-11-17",
+  "source_availability": "caption_based",
+  "timestamp_availability": false,
+  "overview": "Superhuman CEO Shishir Mehrotra discusses career progression, low-stakes practice and asking better questions, then demonstrates his company's AI assistance and reflects on mentor Bill Campbell's approach to leadership.",
+  "key_points": [
+    "Visible projects and interesting conversations can create opportunities outside a conventional recruiting funnel.",
+    "Mehrotra's career ladder separates execution, delivery, solutions and identifying problems from the size of one's responsibilities.",
+    "Judgment and high-leverage questions improve through repeated practice in low-stakes settings, he argues.",
+    "His teleportation interview exercise uses safety and cost structure to explore different potential markets.",
+    "The Superhuman Go demonstration is a company executive's product presentation, not independent validation of its capabilities.",
+    "His account of Bill Campbell frames a leader's success partly in terms of the success of people they support."
+  ],
+  "summary": [
+    "Mehrotra recommends becoming visible through projects and writing that invite interesting conversations, rather than relying exclusively on a crowded recruiting process. He recounts a paper on bundling that circulated among contacts and led to a conversation connected to his Spotify board role. In his view, using AI changes work toward directing tools and evaluating outputs, even for people who have not followed a traditional path from individual contributor to manager. He still considers execution skills important, but says employers also need judgment. He suggests practicing creative and evaluative skills on side projects, with friends or in other settings where mistakes are inexpensive and feedback comes quickly, rather than trying to learn only in consequential meetings.",
+    "His career framework moves from executing a prescribed task, to deciding how to deliver a known solution, to proposing solutions, and finally identifying the most important problem in a broader space. He distinguishes that progression from project scope: a person may handle a large project while still working mostly at the execution level. He describes a middle-career 'trough of disillusionment' when promotion criteria shift from size of responsibility toward how a person defines and solves problems. He expects AI to assist at several levels and shift the ladder upward, not necessarily eliminate it. The host raises concern about junior hiring; Mehrotra favors a retraining and augmentation narrative, an interpretation rather than evidence that displacement will not occur. In marketing, he argues that generating variations does not remove the need for strong ideas and the taste to assess them.",
+    "Mehrotra calls a question that resolves many other questions an eigenquestion, a practical interviewing idea rather than a mathematical result established by the discussion. In his hypothetical teleportation-device exercise, candidates first list questions and then choose only two. One candidate's axes—whether it is safe for humans and whether purchase or operation dominates cost—produce different deployment possibilities, from locations resembling airports to nonhuman uses. The point is to practice discovering questions that change decisions, not to accept the imaginary market examples as tested business plans. He suggests turning such exercises into games with friends or children.",
+    "In a self-interested product demonstration, Mehrotra describes Superhuman Go agents that can proactively suggest changes while a user writes, drawing on connected sources; examples include checking a claim, filling placeholders and checking calendar availability. These are presented capabilities, not independently verified performance or privacy guarantees. A separate MongoDB segment is sponsored. The discussion closes with his account of coach Bill Campbell helping him as a young CEO and declining an advisory reward in favor of the company's growth. Mehrotra says Campbell measured success partly by the achievements of people he mentored, a model of leadership focused on helping others succeed even when they move on."
+  ],
+  "quotes": [
+    {
+      "text": "you learn to be a manager",
+      "timestamp": null
+    }
+  ],
+  "action_items": [
+    "Create a small public project or thoughtful piece of writing that demonstrates the kind of problem you want to work on.",
+    "Practice assessing AI outputs on a low-stakes side project and seek specific feedback from a partner.",
+    "For a hypothetical product, list your questions, select the two that would most change the decision, and compare the resulting options.",
+    "Review your responsibilities separately for project scope and for your role in defining problems, solutions, delivery and execution.",
+    "Before connecting an agent to work data, review its permissions and verify consequential suggestions against reliable sources."
+  ],
+  "resources": [
+    {
+      "label": "Mehrotra's paper on bundling, discussed in the interview",
+      "url": null
+    },
+    {
+      "label": "Superhuman Go and Grammarly (guest's company products)",
+      "url": null
+    },
+    {
+      "label": "MongoDB Atlas learning hub (sponsored segment)",
+      "url": null
+    },
+    {
+      "label": "Future Proof newsletter (host promotion)",
+      "url": null
+    }
+  ],
+  "topics": [
+    "Careers",
+    "AI agents",
+    "Leadership"
+  ],
+  "caveats": [
+    "Caption-track origin is unknown and the transcript contains recognition errors; the literal caption quote has not been verified against audio. Block starts are approximate, not quote timestamps.",
+    "A closing and recommendation are present, but precise tail speech and full audio fidelity were not independently verified.",
+    "The guest promotes his own company's products; the MongoDB segment is sponsored. Product claims, career predictions and the mentor anecdote are not independently verified.",
+    "The caption spells the career framework inconsistently; its four described levels are clearer than the initial acronym."
+  ]
+}
