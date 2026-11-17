@@ -1,6 +1,6 @@
 # Silicon Valley Girl Learning Library Wiki
 
-Snapshot: 2026-11-17. 19 of 50 selected video source notes.
+Snapshot: 2026-11-17. 25 of 50 selected video source notes.
 
 ## Concepts
 
@@ -16,6 +16,11 @@ Snapshot: 2026-11-17. 19 of 50 selected video source notes.
 ## Video source notes
 
 - [[siliconvalleygirl-library-video-01|AI’s Next Trillion-Dollar Market Isn’t Software | Max Jaderberg, President of Isomorphic Labs]]
+- [[siliconvalleygirl-library-video-02|From Google’s 16th Employee to YouTube CEO: Susan Wojcicki’s Family Shares Her Story]]
+- [[siliconvalleygirl-library-video-03|Wharton’s Top AI Professor: Stop Starting Software Companies — The Real AI Money Is Here]]
+- [[siliconvalleygirl-library-video-04|Harvard AI Professor: The People Most at Risk From AI Aren’t Who You Think]]
+- [[siliconvalleygirl-library-video-05|Top UCSF Doctor: AI is Coming for Every Medical Specialty]]
+- [[siliconvalleygirl-library-video-06|Claude Engineering Lead: "Stop Using Claude Like It’s 2024"]]
 - [[siliconvalleygirl-library-video-09|Brian Chesky: People Who Know What to Build With AI Will Pull Ahead]]
 - [[siliconvalleygirl-library-video-10|OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman]]
 - [[siliconvalleygirl-library-video-12|$13B Lovable Co-Founder: Build a Profitable AI Product From Scratch in 30 Minutes]]
@@ -25,6 +30,7 @@ Snapshot: 2026-11-17. 19 of 50 selected video source notes.
 - [[siliconvalleygirl-library-video-18|The AI Workflow That Puts You in the Top 1% | Practical Steps to Level Up]]
 - [[siliconvalleygirl-library-video-23|The 3-Year AI Deadline: How to Stay Relevant (2026-2028)]]
 - [[siliconvalleygirl-library-video-27|Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li]]
+- [[siliconvalleygirl-library-video-30|She Raised a YouTube CEO and a Billion-Dollar Founder | Esther Wojcicki, Godmother of Silicon Valley]]
 - [[siliconvalleygirl-library-video-33|Head of ChatGPT & Codex: agents for normal people are HERE]]
 - [[siliconvalleygirl-library-video-36|Build a Self-Running AI Company in 16 Minutes (Move 75% Faster)]]
 - [[siliconvalleygirl-library-video-38|6 Profitable AI business ideas for 2026]]

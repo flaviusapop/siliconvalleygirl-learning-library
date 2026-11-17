@@ -1,7 +1,7 @@
 {
   "snapshot_date": "2026-11-17",
   "selected_count": 50,
-  "available_count": 19,
+  "available_count": 25,
   "partial": true,
   "videos": [
     {
@@ -73,6 +73,335 @@
         "The extraction reaches a natural closing passage near the end of the 43:35 recording, but block timing does not prove speech-level completeness.",
         "Drug-discovery efficiencies, benchmark examples and statements about regulation and toxicity are interviewee claims rather than independently verified clinical evidence; no patient efficacy, approval or precise experimental hit rate is established here.",
         "The company's mission, forecasts and its president's assessment of its own systems may reflect commercial interests."
+      ]
+    },
+    {
+      "id": "lrIVD2eyPb8",
+      "title": "From Google’s 16th Employee to YouTube CEO: Susan Wojcicki’s Family Shares Her Story",
+      "url": "https://www.youtube.com/watch?v=lrIVD2eyPb8",
+      "rank": 2,
+      "upload_date": "2026-11-05",
+      "duration_seconds": 1435,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "Family members remember Susan Wojcicki’s priorities at home and at work, describe her lung cancer diagnosis, and discuss their ambitions for research, screening awareness and a foundation.",
+      "key_points": [
+        "Relatives recall a deliberate effort to protect family time and treat work priorities as choices rather than an endless schedule.",
+        "The family describes a diagnosis after persistent hip pain and says lung cancer had not been on their radar; this individual account is not a diagnostic guide.",
+        "Participants describe a community for people with lung cancer and research data gathering as a way to address gaps in understanding.",
+        "They discuss screening uptake and stigma, and propose future uses of AI and blood tests; these are ambitions and claims, not established screening recommendations.",
+        "They recall Wojcicki’s interest in science, art and helping others, and describe philanthropic work inspired by her."
+      ],
+      "summary": [
+        "The conversation begins with family memories rather than a conventional account of a technology executive. Relatives describe Susan Wojcicki as a devoted parent who guarded time with her children and a grounded person who did not seek glamour. A sister describes the family’s closeness and their mother remembers early moments of negotiation between siblings. They also visit the family farm, discussing the chickens and planting with children. These memories are individual recollections, not a general recipe for balancing work and family.",
+        "The family describes prioritization as a practical necessity: work and home skills could reinforce one another, while some evening work obligations could potentially be moved earlier. One participant recalls her being willing to miss prominent professional events in order to be home, and another emphasizes that the demands of her job could otherwise fill every hour. Their mother also describes a parenting style built around asking children for their views, giving them independence and respecting their choices. These are presented as family members’ perspectives rather than evidence that any particular arrangement is universally possible.",
+        "The discussion turns to the circumstances surrounding her diagnosis, including persistent hip pain and subsequent testing. Family members say that, despite routine attention to her health, lung cancer had not been something they expected. They describe a lung-cancer research community connected to 23andMe and a foundation interested in data, prevention and earlier detection. Their discussion of screening eligibility, stigma, blood tests and possible AI-assisted risk prediction should be understood as participant claims and research aspirations, not verified medical guidance. In particular, future tests and predictions should not be assumed to be clinically validated or appropriate for a given person.",
+        "The speakers also discuss how people facing health problems might prepare questions and organize information for clinician visits, including potential help from AI. Such tools can be wrong and sharing sensitive records introduces privacy risks; decisions and interpretation belong with a qualified clinician. The conversation closes with recollections of making art and spending time with family despite illness, and with a commitment to philanthropy and helping the community. The family’s hope is to preserve her values through awareness, research and practical support, while recognizing the loss behind the effort."
+      ],
+      "quotes": [
+        {
+          "text": "she was always very real and very grounded",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "do something meaningful",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Identify a recurring work commitment that could be rescheduled to protect a personal priority, if circumstances allow.",
+        "Editorial adaptation: Write down questions for a qualified clinician before an appointment; do not rely on AI for diagnosis.",
+        "Editorial adaptation: Before using a digital tool with health information, review its privacy practices and avoid sharing unnecessary sensitive data."
+      ],
+      "resources": [
+        {
+          "label": "23andMe lung cancer community (discussed by participants)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "Health",
+        "Leadership"
+      ],
+      "caveats": [
+        "This is unverified AI-generated ASR from a locally acquired audio file associated with this video; the original audio was not listened to and audio–video equivalence, speech coverage, names, numbers, and negations are unverified. It is not a verbatim transcript.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "The account of a cancer diagnosis, screening, research, and AI reflects participant claims, not independently checked medical evidence or individualized guidance."
+      ]
+    },
+    {
+      "id": "sHHYVvG_C4Q",
+      "title": "Wharton’s Top AI Professor: Stop Starting Software Companies — The Real AI Money Is Here",
+      "url": "https://www.youtube.com/watch?v=sHHYVvG_C4Q",
+      "rank": 3,
+      "upload_date": "2026-11-03",
+      "duration_seconds": 3221,
+      "transcription_date": "2026-11-17",
+      "source_availability": "audio_asr_based",
+      "source_method": "audio_asr",
+      "timestamp_availability": false,
+      "overview": "Wharton entrepreneurship professor Ethan Mollick discusses how AI changes the cost of building, the need for domain expertise and human taste, the design of agent workflows, and the apprenticeship problem created when routine work is automated. These are his arguments and examples as rendered by unverified machine transcription.",
+      "key_points": [
+        "Mollick encourages founders to use software as a tool for addressing concrete domain problems, rather than assuming that selling software is the only attractive business model; institutional barriers still matter.",
+        "He identifies deep knowledge, broad knowledge, agency and taste as complementary to AI, and worries that generic model outputs can converge on similar approaches.",
+        "He argues that deliberate individual ideation before asking a group or model for ideas can protect variation, while still allowing AI to contribute afterward.",
+        "He describes agent management as specifying desired outcomes, examples, early checks and decision points rather than simply letting a system select and execute its own favorite approach.",
+        "He warns that replacing junior tasks with AI can weaken the apprenticeship through which professional judgment develops, and proposes making time for explicit on-the-job training.",
+        "He treats AI capability as an uneven frontier and suggests testing ambitious personal benchmarks repeatedly while acknowledging that future capabilities and employment effects remain uncertain."
+      ],
+      "summary": [
+        "Mollick argues that cheaper access to software expands what people with domain knowledge can attempt. He recalls students with different professional backgrounds building projects around specific needs, including supply-chain visibility and communicating medical information to patients. His proposal is not that every startup should avoid software: he distinguishes technically demanding software businesses from using software as a toolkit to deliver some other product or service. He also warns that an apparently inefficient market may persist for social, political or legal reasons. In his example, replacing real-estate brokers looks simple from a technical perspective but encounters entrenched relationships and institutions. He concedes that apparently difficult ideas can still be worth trying; the friction is a reason to investigate, not a proof of impossibility.",
+        "For successful AI use, Mollick names deep knowledge, broad knowledge, agency and taste. Domain expertise can come from studying an industry, interviewing people and testing ideas; some familiarity with adjacent fields lets a founder apply tools beyond a narrow specialty. He worries that shared model defaults can push strategy and writing toward sameness. Taste, in his account, can be developed by studying varied good and bad examples and acquiring language for explaining differences. He says he writes his own first drafts to preserve his thinking, but does not reject AI ideation outright: his recommended sequence is to generate ideas independently first, then use a group or AI to expand them. He also stresses that an idea gains practical value through execution and learning from real people; a simulated customer is at most a preliminary stand-in.",
+        "His management analogy is to delegate to a team while retaining meaningful choices. In one research example, he asks an agent for alternative approaches, reviews them, requests preliminary versions of selected options and chooses features to combine. He recommends making good and bad outcomes explicit, scheduling check-ins and intervening early when the work goes astray. He distinguishes that adaptive interaction from a rigid, permanently fixed workflow. Both participants describe unintended sending actions by an assistant; Mollick therefore advocates developing trust incrementally, beginning with lower-stakes work and understanding the instructions and context where possible. His favorable anecdote about AI fact-checking is not evidence that its outputs can be accepted without verification.",
+        "The discussion also connects AI use to the development of professional skill. Mollick argues that junior staff historically learned by doing work for more experienced colleagues and receiving feedback; if the work bypasses juniors or they merely pass along AI output they do not understand, that training pathway may weaken. He suggests deliberately allowing time for inefficient practice and structured learning rather than relying on accidental apprenticeship. He describes current capabilities as a jagged frontier: systems can be unexpectedly strong on some tasks and weak on others, while human, legal and organizational constraints also matter. His suggested response to rapid change is to maintain ambitious tasks that current systems cannot yet do to one’s satisfaction, revisit them as tools change, and approach experiments with curiosity without dismissing anxiety. These are judgments and proposals, not established predictions about jobs or future model performance."
+      ],
+      "quotes": [
+        {
+          "text": "deep knowledge",
+          "timestamp": null
+        },
+        {
+          "text": "desirable difficulties",
+          "timestamp": null
+        }
+      ],
+      "action_items": [
+        "Choose one concrete domain problem and interview affected people about constraints, including institutional or legal friction, before treating a prototype as a viable business.",
+        "Generate and record ideas independently before asking an AI for alternatives; compare the results and decide which features reflect your own priorities.",
+        "For an agent task, define examples of acceptable and unacceptable work, set an early review and explicit decision checkpoints, and test permissions on low-stakes tasks before granting greater autonomy.",
+        "Protect time for junior colleagues to perform work, receive feedback and explain their reasoning; separately track a few ambitious tasks to retest as tools change."
+      ],
+      "resources": [
+        {
+          "label": "Future Proof newsletter (host promotion)",
+          "url": null
+        },
+        {
+          "label": "MongoDB Atlas Agent Engine (episode sponsor)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Entrepreneurship"
+      ],
+      "caveats": [
+        "This draft is based on automated speech recognition of the acquired audio, not a human-verified transcript. The full ASR record was read in order, but segment coverage and a closing passage do not prove every spoken word was captured. No audio was listened to or independently verified, and audio-video equivalence is unverified.",
+        "The overlapping clipped web extraction is also imperfect and is not a ground truth. An independent automated comparison flagged possible negation, number and name discrepancies and potentially missing chunks; the final portion has no comparable caption cross-check.",
+        "The short quotations are unverified ASR renderings, not verified direct speech; no speech-level quote timestamps are supplied. Speaker attribution and material claims have not been independently checked against the audio or video.",
+        "Business, research and employment assertions are the participants’ claims or forecasts, not independently established results. The MongoDB mention is sponsored; no product claims are endorsed.",
+        "The transcription date reflects observed completion of AI transcription on 2026-11-17 UTC. Speech-level accuracy and completeness have not been verified."
+      ]
+    },
+    {
+      "id": "vFOnDsy58NU",
+      "title": "Harvard AI Professor: The People Most at Risk From AI Aren’t Who You Think",
+      "url": "https://www.youtube.com/watch?v=vFOnDsy58NU",
+      "rank": 4,
+      "upload_date": "2026-10-30",
+      "duration_seconds": 3095,
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription in UTC",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The interview presents Harvard Business School professor Karim R. Lakhani’s account of how people and organizations can use AI without surrendering learning and judgment. The discussion moves from different collaboration styles and the uneven frontier of model performance to education, business targets and the uncertain distribution of job risk.",
+      "key_points": [
+        "The guest distinguishes close human–AI collaboration, supervised division of tasks and hands-off self-automation; he reports the last pattern was weakest for learning in his research.",
+        "He describes AI capabilities as uneven across tasks and recommends repeatedly probing weaknesses rather than trusting fluent first answers or fixed assumptions about a model.",
+        "Junior workers face a learning dilemma: acquire foundational understanding and taste while using machines to observe more examples and extend their capabilities.",
+        "He argues leaders should personally experiment, choose customer or business outcomes rather than AI adoption targets, and work backward to operating changes.",
+        "He reports unequal use within organizations but says his usage data did not yet establish a performance correlation; productivity claims drawn from other data should not be conflated with that result.",
+        "He speculates that some middle-management roles may be more exposed than junior roles, while explicitly saying the early-career question is not settled.",
+        "He frames differentiation as human judgment and expertise combined with AI, and leaves open how work retains meaning and how people consume increased output."
+      ],
+      "summary": [
+        "The guest describes three ways of working with AI: continuous joint problem solving, a division of work in which the person supervises delegated tasks, and handing work off with little engagement. He reports poorer learning among the last group and warns that persuasive outputs can encourage people to stop questioning. The practical implication is not that one collaboration style is always optimal: the boundary of what a model can do is uneven, and a division that worked with one model may need to be tested again. He suggests asking for counterarguments, alternative explanations and red flags, then challenging the system rather than treating a polished answer as evidence. These are his interpretations of research and practice; the underlying studies and their methods were not reviewed here.",
+        "The learning question becomes sharper when one person can use AI across several specialties. The guest argues that someone producing design or analysis still needs enough domain knowledge to judge whether the result is appropriate, not merely average. He offers a learning sequence: first work through foundations yourself, then use the machine to generate more examples and study patterns. He describes existing business-school work that combines building AI applications with discussion of strategy, economics and organizational change. He says an expanded curriculum planned for the following spring will devote half the class to building with AI. These educational approaches are not proof that any particular curriculum or exercise produces better long-term skill. The conversation acknowledges the unresolved concern that automation may remove the junior tasks through which people traditionally gain judgment.",
+        "For companies, he recommends that leaders try building or using AI themselves instead of relying entirely on secondhand reports. He says organizations should set demanding goals in terms of customer service, operations or other business results, then determine how AI and organizational changes might contribute. He also reports a gap in AI usage within organizations and notes that the usage data he discusses had not established a correlation with performance. His separate references to large productivity differences should not be read as a measured causal effect of that usage gap. A useful test would compare a defined workflow against its prior baseline and account for other influences rather than credit every improvement to the model.",
+        "The guest sees declining costs of accessing expertise as a challenge to both workers and firms: what valuable contribution remains when others can use similar models? He favors combining domain judgment, ambition and practice with the tools, while admitting uncertainty about which occupations will be disrupted and how quickly. In particular, he questions the assumption that junior roles are necessarily the most exposed and speculates about resistance in middle management; that is a forecast and interpretation, not a verified labor-market conclusion. The closing discussion also raises consumption and meaning: if production grows and agents filter material for people, both the review burden and the human experience of work may change in ways the speakers cannot yet resolve."
+      ],
+      "quotes": [
+        {
+          "text": "I never take the first answer.",
+          "timestamp": null
+        },
+        {
+          "text": "learning how to learn",
+          "timestamp": null
+        }
+      ],
+      "action_items": [
+        "Pick one recurring task and compare collaborative, supervised-delegation and largely automated approaches; record both output quality and what the worker learns.",
+        "Ask for plausible counterarguments and failure cases, then check important claims against independent evidence.",
+        "Practice foundational work before using AI to generate additional examples; periodically test whether you can assess the results without the model.",
+        "Define a business outcome and baseline before an AI pilot, and separately track adoption, quality and other causes of change."
+      ],
+      "resources": [
+        {
+          "label": "Future Proof newsletter (host’s newsletter)",
+          "url": null
+        },
+        {
+          "label": "ChatLLM by Abacus.AI (video sponsor)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Work"
+      ],
+      "caveats": [
+        "Uncorrected AI-generated ASR, not human-verified captions: audio was not listened to; recognition errors, omissions and speaker-attribution errors are possible, including names, numbers and negations.",
+        "All recorded ASR segments were read, but full segment coverage is not proof of complete speech; audio-to-video equivalence is unverified. Raw ASR contains segment start and end times, but displayed quote timestamps are null and not audio-verified. Quotes are exact short strings from the unverified AI transcript, not verified original speech.",
+        "Research findings, organizational usage and productivity observations are the interviewees’ claims, not independently checked studies. The guest explicitly says the described usage data did not establish a performance correlation.",
+        "Views about middle-management risk, company strategy and future model capabilities are forecasts or interpretations, not established outcomes. Sponsor material is promotional.",
+        "Guest identity and affiliation are supported by independent video and episode metadata; the ASR renders the first name differently. Metadata does not verify the spoken wording.",
+        "Action items are editorial practical adaptations, not verbatim guest instructions or established study protocols."
+      ]
+    },
+    {
+      "id": "iJfF_VC10tI",
+      "title": "Top UCSF Doctor: AI is Coming for Every Medical Specialty",
+      "url": "https://www.youtube.com/watch?v=iJfF_VC10tI",
+      "rank": 5,
+      "upload_date": "2026-10-23",
+      "duration_seconds": 2359,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "A physician discusses possible uses and limits of AI in medicine, including diagnostic context, screening tradeoffs and the gap between research optimism and proven care.",
+      "key_points": [
+        "The physician expects AI to change medical work but distinguishes algorithmic tasks from complex and emotionally demanding clinical decisions.",
+        "A study based on a distilled case may not capture the difficulty of collecting and selecting relevant details from a real patient’s history.",
+        "He suggests considering both common explanations and serious possibilities, while warning that indiscriminate testing can produce incidental findings and harm.",
+        "He is optimistic about research and decision support but cautions that early detection does not automatically improve outcomes for every disease.",
+        "He questions rapid cure and longevity claims and stresses the need to test treatments in people for efficacy and safety.",
+        "The host describes uploading sensitive medical and genetic records into an AI tool; this introduces privacy and security concerns not resolved by the interview."
+      ],
+      "summary": [
+        "The physician opens by questioning confident predictions that AI will quickly eliminate medical specialties. He suggests AI can be useful for some structured tasks while human clinicians remain important for complex judgments and emotionally difficult conversations. He also raises a challenge for comparative studies: an AI system may receive a neatly distilled case even though identifying relevant facts from a full medical history is itself a demanding part of clinical practice. His discussion of when human involvement may improve or degrade a result is conditional, not proof that an AI tool should replace a clinician for any particular patient.",
+        "Asked how to frame health questions, he distinguishes the most common possibilities from serious possibilities that should not be missed. He describes the tension between avoiding missed diagnoses and ordering every possible test: an incidental finding can lead to further testing, procedures, expense or harm. The point is not to ignore symptoms, but to recognize that more information is not automatically better. The host describes compiling health and genetic data for AI-assisted questions, and the physician notes that records can contain conflicting information. AI can omit or misinterpret details; the interview does not establish the safety, privacy or accuracy of that setup. People should discuss symptoms, testing choices and urgent concerns with an appropriate clinician, and assess privacy before uploading sensitive records.",
+        "The physician is interested in possible AI applications in personalized treatment, clinical-record summaries and matching patients to trials. He presents these as promising directions rather than proven benefits for every patient. He cautions that claims about rapid cures for cancer or other diseases are often overhyped, and argues that even if tools shorten parts of drug discovery, human testing for safety and efficacy remains important. He also distinguishes early diagnosis in areas where it has demonstrated value from the unsupported assumption that earlier detection always improves outcomes. Broad commercial whole-body scanning illustrates the same tension: a compelling success story does not settle the population-wide balance of benefits and harms.",
+        "The later discussion contrasts high-effort longevity practices with asking what evidence supports a particular intervention and whether its benefits justify its burdens. He notes that the evidence base may itself reflect unequal research investment, so lack of evidence and proof of ineffectiveness are not identical. His hopes for cancer and neurological research are forecasts with considerable uncertainty, not a timetable for cures. A family-organizing product is promoted during the episode and the host mentions her newsletter; neither is independent evidence for the health claims. The conversation is exploratory and should not be used to change medication, delay care or choose screening without professional advice."
+      ],
+      "quotes": [
+        {
+          "text": "what are the most common",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "what are the most serious.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Prepare a concise symptom history and questions for a qualified clinician, including what requires urgent attention.",
+        "Editorial adaptation: Ask a clinician about both the potential benefits and harms of a proposed test, including possible incidental findings.",
+        "Editorial adaptation: Verify claims and sources produced by AI; do not rely on a chatbot to diagnose or change treatment.",
+        "Editorial adaptation: Review the privacy and retention terms of any service before sharing health or genetic information."
+      ],
+      "resources": [
+        {
+          "label": "Nori Family Hub (promotional demonstration)",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter",
+          "url": null
+        },
+        {
+          "label": "Open Evidence (physician-oriented AI tool discussed)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Health"
+      ],
+      "caveats": [
+        "This is unverified AI-generated ASR from a locally acquired audio file associated with this video; the original audio was not listened to and audio–video equivalence, speech coverage, names, numbers, and negations are unverified. It is not a verbatim transcript.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "Clinical, screening, treatment, research and longevity claims are participant statements and predictions, not independently validated medical advice; the physician name is omitted because its spelling was not independently verified from frozen metadata."
+      ]
+    },
+    {
+      "id": "D-SVFneJ_Nk",
+      "title": "Claude Engineering Lead: \"Stop Using Claude Like It’s 2024\"",
+      "url": "https://www.youtube.com/watch?v=D-SVFneJ_Nk",
+      "rank": 6,
+      "upload_date": "2026-10-20",
+      "duration_seconds": 2963,
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription in UTC",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "Felix Rieseberg, Claude engineering lead at Anthropic at the time of recording, discusses designing AI workflows around outcomes, tool access, adversarial review and human feedback. He also argues that lower prototyping costs increase the importance of product judgment and understanding customers, while acknowledging that workflows and model capabilities change quickly.",
+      "key_points": [
+        "The guest distinguishes automating unwanted work from augmenting people to do work they could not previously accomplish, and urges teams to redesign the surrounding workflow.",
+        "He suggests evaluating an agent’s process and evidence, not merely whether its answer happens to be correct.",
+        "His suggested review loop uses separate sessions to challenge an output and assess the criticisms; he prefers hard external evidence when available.",
+        "He recommends tool and data access with clear descriptions rather than rigidly pre-slicing context, while suggesting that old instructions or skills should be tested rather than assumed helpful.",
+        "To teach a review style, he proposes collecting past feedback, distilling principles and comparing model feedback with a person’s feedback side by side before delegation.",
+        "He argues inexpensive prototypes do not replace customer empathy, good product decisions or relationships, particularly in neglected operational software.",
+        "For aspiring engineers he favors demonstrable projects, customer understanding and working across systems, while warning that today’s practical advice may need revision."
+      ],
+      "summary": [
+        "The guest describes spending substantial effort on prototypes and then evaluating which ideas actually help people. As production becomes easier, he argues, the scarce resource is often attention: a team can make many variations, but users cannot meaningfully evaluate all of them. His distinction between automation and augmentation is useful for selecting opportunities. Automation removes work or reduces cost; augmentation lets someone perform a task that previously exceeded their skills or capacity. In both cases, he recommends thinking about the desired outcome and the workflow rather than adding a chatbot to an unchanged process. His claims about capabilities and development speed are practitioner observations, not independently verified performance results.",
+        "The discussion treats evaluation as a combination of process and results. In a weather example, a lucky guess should not receive the same credit as an answer obtained through an appropriate location and reputable sources, even if the latter has a small error. For writing, the guest suggests breaking expert work into concrete techniques—such as developing counterarguments—instead of merely asking a model to sound like an expert. He proposes having separate sessions attack a draft, then using another review pass to assess whether those criticisms are valid. He also says an independent external signal is preferable when obtainable. Multiple model reviews can still share blind spots and cannot substitute for checking sources or expert review on consequential questions.",
+        "On setup, the guest prefers giving a model clearly described tools through which it can retrieve relevant information, rather than automatically assigning narrow data slices and elaborate personas. He suggests periodically testing whether existing skills or instructions still improve results, because models change. His example of learning a review style starts with existing human feedback, summarizes recurring principles and compares the model’s proposed feedback with the person’s own in parallel. Only after observing the differences would a team consider changing the level of delegation. He expresses strong personal trust in an AI fact-checking workflow, but that is his judgment, not evidence of reliable fact-checking in general. Access to business data and computer controls also needs appropriate permissions and safeguards, a consideration not resolved by his account.",
+        "The product and career discussion shifts from tool mechanics to customer value. The guest predicts that cheaper building will put pressure on software people use only because they lack alternatives, but says people will still pay for products that solve real needs well. He identifies cumbersome operational software as a possible opportunity and stresses that learning the customer’s workflow and building relationships are separate from producing a prototype. For people entering software, he recommends making tangible projects, understanding users and learning to combine systems and collaborate across functions. These are hiring preferences and forecasts, not guarantees about careers or markets. He ends by emphasizing how difficult future predictions are and how quickly current advice may become outdated."
+      ],
+      "quotes": [
+        {
+          "text": "what does good mean?",
+          "timestamp": null
+        },
+        {
+          "text": "The half-life of a good skill is very short.",
+          "timestamp": null
+        }
+      ],
+      "action_items": [
+        "Choose one workflow and specify a useful outcome, failure modes and a baseline before automating or augmenting it.",
+        "Create a draft, have an independent session challenge it, and verify material criticisms against primary evidence rather than relying on model agreement.",
+        "Compare a human reviewer’s feedback with AI feedback on the same sample; track disagreement before expanding delegation.",
+        "Audit existing instructions and tool permissions: compare output with and without each instruction, and grant only access appropriate to the task.",
+        "Interview users of a cumbersome operational workflow and test a small prototype against their actual needs."
+      ],
+      "resources": [
+        {
+          "label": "Claude",
+          "url": null
+        },
+        {
+          "label": "Blender",
+          "url": null
+        },
+        {
+          "label": "Host’s free newsletter and first-agent guide",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Startups"
+      ],
+      "caveats": [
+        "Uncorrected AI-generated ASR, not human-verified captions: audio was not listened to; recognition errors, omissions and speaker-attribution errors are possible, including names, numbers and negations.",
+        "All recorded ASR segments were read, but full segment coverage is not proof of complete speech; audio-to-video equivalence is unverified. Raw ASR contains segment start and end times, but displayed quote timestamps are null and not audio-verified. Quotes are exact short strings from the unverified AI transcript, not verified original speech.",
+        "The guest’s product and reliability claims reflect a person associated with the product and may involve commercial interests; no capability, benchmark, discovery or fact-checking accuracy was independently verified.",
+        "Layered model reviews can share failure modes; the discussion does not establish that broad data or computer access is safe, or that AI review replaces human judgment. Product advice and forecasts may date quickly.",
+        "Independent episode metadata and the guest’s own site corroborate the spelling Felix Rieseberg; the uncorrected ASR renders the surname “Riesberg.” This cross-check does not verify the spoken wording.",
+        "Action items are editorial practical adaptations, not verbatim guest instructions or established study protocols."
       ]
     },
     {
@@ -692,6 +1021,75 @@
         "Public native web_extract captions have unknown track origin and may contain recognition errors; a natural ending is visible, but speech-level completeness and audio accuracy are not independently verified. Block-start times are not quote-level timestamps.",
         "Rogier's two-category work model, tutoring cost and speed figures, and predictions about schools are his claims or hypotheses, not established findings in this interview. Li's estimates about spatial intelligence are explicitly uncertain.",
         "The introduction contains an uncertain funding figure for Li; it is not used here. The interview promotes a MasterClass course, and the Cisco segment is promotional; product claims are not independently verified."
+      ]
+    },
+    {
+      "id": "qNt5TNn9D9Y",
+      "title": "She Raised a YouTube CEO and a Billion-Dollar Founder | Esther Wojcicki, Godmother of Silicon Valley",
+      "url": "https://www.youtube.com/watch?v=qNt5TNn9D9Y",
+      "rank": 30,
+      "upload_date": "2026-06-09",
+      "duration_seconds": 2629,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "Esther Wojcicki discusses her TRICK framework for parenting and teaching, the role of mistakes and autonomy, and her hopes for using AI without surrendering independent thought.",
+      "key_points": [
+        "Wojcicki describes TRICK as trust, respect, independence, collaboration and kindness, and applies it to education and work.",
+        "She recommends attempting work independently before using AI to obtain feedback, rather than asking it to do the learning for you.",
+        "Her teaching approach, as she describes it, allowed students to revise tests and essays rather than treating an initial mistake as final.",
+        "She advocates offering children suggestions and opportunities without always dictating their decisions, illustrating this with family anecdotes.",
+        "She favors social interaction as a reason for college and distinguishes appropriate technology use from the needs of very young children.",
+        "Her optimistic claims about AI, upbringing and workplace culture are opinions and personal experiences, not demonstrated general outcomes."
+      ],
+      "summary": [
+        "Wojcicki compares AI with earlier technological changes and argues that people should learn to use new tools rather than simply fear them. Her classroom example is to try an essay or mathematics problem first, then ask AI for feedback. She also describes using it for questions and initial ideas, with a person retaining responsibility for judging and expanding the result. Her confident claims about what AI can and cannot do are her own perspective; the discussion does not establish that an AI answer or source is reliable. It also includes a commercial demonstration of a design service, which should be read as promotion rather than independent evaluation.",
+        "The organizing framework is TRICK: trust, respect, independence, collaboration and kindness. Wojcicki says people become more able to act when they feel trusted, are permitted to speak, and can work with others. She presents a technology-company culture as an illustration of employee autonomy, though the interview does not independently examine that company or substantiate the claimed origins of particular products. For adults accustomed to seeking validation, she suggests noticing self-blame and treating errors as opportunities to learn. Her broad explanations of depression and addiction are not evidence-based assessments in this interview and should not substitute for professional support.",
+        "Her stories about her daughters illustrate her distinction between guidance and control. She describes suggesting opportunities while allowing children to pursue interests and make decisions; she also recalls encouraging a child to explore a job fair without prescribing the outcome. In the classroom, she says students could revise essays and retake work, with feedback directed at what could be improved. These anecdotes support an approach to learning, not proof that a single parenting style caused any person’s career or will work in every family. The interviewer raises the point that social contexts differ.",
+        "On education, Wojcicki values college partly for the opportunity to interact with other people and develop socially. She distinguishes use of technology to support learning differences from her preference for limiting devices for very young children, and she favors paper-based activities in early learning. Those age and learning claims are personal recommendations, not an independently reviewed pediatric evidence summary. She closes by encouraging families to cultivate independent thought and resilience in the face of AI-related uncertainty. She also mentions a documentary about her teaching, while the host points listeners to a newsletter; availability is not verified here."
+      ],
+      "quotes": [
+        {
+          "text": "you should try to do whatever problem it is",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "You just had to revise.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Attempt a task independently, then ask an AI tool to critique your reasoning and verify its suggestions.",
+        "Editorial adaptation: Make revision part of a learning activity by giving specific feedback and another attempt.",
+        "Editorial adaptation: Offer a child age-appropriate choices and discuss tradeoffs while retaining necessary safety boundaries.",
+        "Editorial adaptation: Before seeking outside validation, name one thing you learned from an imperfect attempt."
+      ],
+      "resources": [
+        {
+          "label": "Design.com (promotional demonstration)",
+          "url": null
+        },
+        {
+          "label": "Future Proof newsletter",
+          "url": null
+        },
+        {
+          "label": "The Godmother of Silicon Valley (documentary mentioned)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "Education",
+        "AI",
+        "Parenting"
+      ],
+      "caveats": [
+        "This is unverified AI-generated ASR from a locally acquired audio file associated with this video; the original audio was not listened to and audio–video equivalence, speech coverage, names, numbers, and negations are unverified. It is not a verbatim transcript.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "Wojcicki’s parenting, AI, education, mental-health and company-culture claims are not independently established; commercial material is promotional."
       ]
     },
     {

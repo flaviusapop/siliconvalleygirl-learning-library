@@ -71,4 +71,4 @@ Quotation timestamps are not verified; no timed links are inferred.
 - [Selection manifest](../../data/manifest.json)
 - [Library reading card](../../index.html#video-ael24TrS0ws)
 
-This generated note is based on the canonical summary JSON. Raw caption transcripts are not published.
+This generated note is based on the canonical summary JSON. Raw transcripts are not published.

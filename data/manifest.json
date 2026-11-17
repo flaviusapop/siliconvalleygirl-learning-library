@@ -3,7 +3,7 @@
   "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
   "collected_at_utc": "2026-11-17T08:57:00.435949+00:00",
   "requested_count": 50,
-  "scope": "Partial public snapshot: 19 available notes from 50 frozen selected videos; source files remain private.",
+  "scope": "25 available notes from 50 frozen selected videos",
   "videos": [
     {
       "rank": 1,
@@ -20,6 +20,91 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 2,
+      "id": "lrIVD2eyPb8",
+      "title": "From Google’s 16th Employee to YouTube CEO: Susan Wojcicki’s Family Shares Her Story",
+      "url": "https://www.youtube.com/watch?v=lrIVD2eyPb8",
+      "duration_seconds": 1435,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-11-05",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 3,
+      "id": "sHHYVvG_C4Q",
+      "title": "Wharton’s Top AI Professor: Stop Starting Software Companies — The Real AI Money Is Here",
+      "url": "https://www.youtube.com/watch?v=sHHYVvG_C4Q",
+      "duration_seconds": 3221,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-11-03",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 4,
+      "id": "vFOnDsy58NU",
+      "title": "Harvard AI Professor: The People Most at Risk From AI Aren’t Who You Think",
+      "url": "https://www.youtube.com/watch?v=vFOnDsy58NU",
+      "duration_seconds": 3095,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-10-30",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 5,
+      "id": "iJfF_VC10tI",
+      "title": "Top UCSF Doctor: AI is Coming for Every Medical Specialty",
+      "url": "https://www.youtube.com/watch?v=iJfF_VC10tI",
+      "duration_seconds": 2359,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-10-23",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 6,
+      "id": "D-SVFneJ_Nk",
+      "title": "Claude Engineering Lead: \"Stop Using Claude Like It’s 2024\"",
+      "url": "https://www.youtube.com/watch?v=D-SVFneJ_Nk",
+      "duration_seconds": 2963,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-10-20",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 9,
@@ -166,6 +251,23 @@
       "timestamp_availability": false
     },
     {
+      "rank": 30,
+      "id": "qNt5TNn9D9Y",
+      "title": "She Raised a YouTube CEO and a Billion-Dollar Founder | Esther Wojcicki, Godmother of Silicon Valley",
+      "url": "https://www.youtube.com/watch?v=qNt5TNn9D9Y",
+      "duration_seconds": 2629,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-06-09",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 33,
       "id": "DPe_srf0GlI",
       "title": "Head of ChatGPT & Codex: agents for normal people are HERE",
@@ -310,6 +412,6 @@
       "timestamp_availability": false
     }
   ],
-  "available_count": 19,
+  "available_count": 25,
   "partial": true
 }

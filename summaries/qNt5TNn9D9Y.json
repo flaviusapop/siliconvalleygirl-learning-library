@@ -1,0 +1,69 @@
+{
+  "id": "qNt5TNn9D9Y",
+  "title": "She Raised a YouTube CEO and a Billion-Dollar Founder | Esther Wojcicki, Godmother of Silicon Valley",
+  "url": "https://www.youtube.com/watch?v=qNt5TNn9D9Y",
+  "rank": 30,
+  "upload_date": "2026-06-09",
+  "duration_seconds": 2629,
+  "transcription_date": "2026-11-17",
+  "source_method": "audio_asr",
+  "source_availability": "audio_asr_based",
+  "timestamp_availability": false,
+  "overview": "Esther Wojcicki discusses her TRICK framework for parenting and teaching, the role of mistakes and autonomy, and her hopes for using AI without surrendering independent thought.",
+  "key_points": [
+    "Wojcicki describes TRICK as trust, respect, independence, collaboration and kindness, and applies it to education and work.",
+    "She recommends attempting work independently before using AI to obtain feedback, rather than asking it to do the learning for you.",
+    "Her teaching approach, as she describes it, allowed students to revise tests and essays rather than treating an initial mistake as final.",
+    "She advocates offering children suggestions and opportunities without always dictating their decisions, illustrating this with family anecdotes.",
+    "She favors social interaction as a reason for college and distinguishes appropriate technology use from the needs of very young children.",
+    "Her optimistic claims about AI, upbringing and workplace culture are opinions and personal experiences, not demonstrated general outcomes."
+  ],
+  "summary": [
+    "Wojcicki compares AI with earlier technological changes and argues that people should learn to use new tools rather than simply fear them. Her classroom example is to try an essay or mathematics problem first, then ask AI for feedback. She also describes using it for questions and initial ideas, with a person retaining responsibility for judging and expanding the result. Her confident claims about what AI can and cannot do are her own perspective; the discussion does not establish that an AI answer or source is reliable. It also includes a commercial demonstration of a design service, which should be read as promotion rather than independent evaluation.",
+    "The organizing framework is TRICK: trust, respect, independence, collaboration and kindness. Wojcicki says people become more able to act when they feel trusted, are permitted to speak, and can work with others. She presents a technology-company culture as an illustration of employee autonomy, though the interview does not independently examine that company or substantiate the claimed origins of particular products. For adults accustomed to seeking validation, she suggests noticing self-blame and treating errors as opportunities to learn. Her broad explanations of depression and addiction are not evidence-based assessments in this interview and should not substitute for professional support.",
+    "Her stories about her daughters illustrate her distinction between guidance and control. She describes suggesting opportunities while allowing children to pursue interests and make decisions; she also recalls encouraging a child to explore a job fair without prescribing the outcome. In the classroom, she says students could revise essays and retake work, with feedback directed at what could be improved. These anecdotes support an approach to learning, not proof that a single parenting style caused any person’s career or will work in every family. The interviewer raises the point that social contexts differ.",
+    "On education, Wojcicki values college partly for the opportunity to interact with other people and develop socially. She distinguishes use of technology to support learning differences from her preference for limiting devices for very young children, and she favors paper-based activities in early learning. Those age and learning claims are personal recommendations, not an independently reviewed pediatric evidence summary. She closes by encouraging families to cultivate independent thought and resilience in the face of AI-related uncertainty. She also mentions a documentary about her teaching, while the host points listeners to a newsletter; availability is not verified here."
+  ],
+  "quotes": [
+    {
+      "text": "you should try to do whatever problem it is",
+      "timestamp": null,
+      "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+    },
+    {
+      "text": "You just had to revise.",
+      "timestamp": null,
+      "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+    }
+  ],
+  "action_items": [
+    "Editorial adaptation: Attempt a task independently, then ask an AI tool to critique your reasoning and verify its suggestions.",
+    "Editorial adaptation: Make revision part of a learning activity by giving specific feedback and another attempt.",
+    "Editorial adaptation: Offer a child age-appropriate choices and discuss tradeoffs while retaining necessary safety boundaries.",
+    "Editorial adaptation: Before seeking outside validation, name one thing you learned from an imperfect attempt."
+  ],
+  "resources": [
+    {
+      "label": "Design.com (promotional demonstration)",
+      "url": null
+    },
+    {
+      "label": "Future Proof newsletter",
+      "url": null
+    },
+    {
+      "label": "The Godmother of Silicon Valley (documentary mentioned)",
+      "url": null
+    }
+  ],
+  "topics": [
+    "Education",
+    "AI",
+    "Parenting"
+  ],
+  "caveats": [
+    "This is unverified AI-generated ASR from a locally acquired audio file associated with this video; the original audio was not listened to and audio–video equivalence, speech coverage, names, numbers, and negations are unverified. It is not a verbatim transcript.",
+    "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+    "Wojcicki’s parenting, AI, education, mental-health and company-culture claims are not independently established; commercial material is promotional."
+  ]
+}
