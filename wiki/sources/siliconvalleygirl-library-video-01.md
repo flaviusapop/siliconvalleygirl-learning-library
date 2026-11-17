@@ -36,7 +36,7 @@ The closing discussion puts a boundary around the optimism. Jaderberg emphasizes
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > you can't mark your own homework
 

@@ -33,7 +33,7 @@ The video's two-worker framing comes from Rogier's hypothesis: a barbell of exce
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > The goal of education is not a tool.
 

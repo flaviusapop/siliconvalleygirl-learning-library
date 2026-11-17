@@ -35,7 +35,7 @@ The conversation then moves from tools to mindset. Vaynerchuk says he enjoys bui
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > everything you learn along the way will set up your next thing.
 

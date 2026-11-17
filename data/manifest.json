@@ -3,7 +3,7 @@
   "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
   "collected_at_utc": "2026-11-17T08:57:00.435949+00:00",
   "requested_count": 50,
-  "scope": "31 available notes from 50 frozen selected videos",
+  "scope": "35 available notes from 50 frozen selected videos",
   "videos": [
     {
       "rank": 1,
@@ -304,6 +304,23 @@
       "timestamp_availability": false
     },
     {
+      "rank": 19,
+      "id": "xiJsfvaxzRY",
+      "title": "$22B Kalshi Co-Founder: How Life Changes in the Next 12 Months",
+      "url": "https://www.youtube.com/watch?v=xiJsfvaxzRY",
+      "duration_seconds": 1991,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-08-11",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
       "rank": 20,
       "id": "2NFQ4-6MzuU",
       "title": "The Real AI Opportunity  | The Ultimate Guide to Become Visible in AI",
@@ -313,6 +330,40 @@
       "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
       "selection_basis": "First entries in saved flat inventory",
       "upload_date": "2026-08-04",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 21,
+      "id": "VF2FwZ_PXhw",
+      "title": "Stop Disease 5 Years Early: AI + DNA Playbook With 23andMe's Founder  Anne Wojcicki",
+      "url": "https://www.youtube.com/watch?v=VF2FwZ_PXhw",
+      "duration_seconds": 3674,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-07-28",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
+    },
+    {
+      "rank": 22,
+      "id": "72duHF7iZiU",
+      "title": "Stanford's Top AI Economist: The Next 10 Years Will Be the Best AND the Worst in History",
+      "url": "https://www.youtube.com/watch?v=72duHF7iZiU",
+      "duration_seconds": 3212,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-07-21",
       "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
       "transcription_date": "2026-11-17",
       "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
@@ -335,6 +386,23 @@
       "transcription_date_source": "public web_extract source acquisition in UTC",
       "source_availability": "caption_based",
       "timestamp_availability": false
+    },
+    {
+      "rank": 24,
+      "id": "s-Iz-lLAhdg",
+      "title": "Khan Academy CEO: The Real AI Opportunity Is in Boring Industries | Sal Khan",
+      "url": "https://www.youtube.com/watch?v=s-Iz-lLAhdg",
+      "duration_seconds": 2649,
+      "channel": "Silicon Valley Girl",
+      "channel_url": "https://www.youtube.com/@siliconvalleygirl/videos",
+      "selection_basis": "First entries in saved flat inventory",
+      "upload_date": "2026-07-14",
+      "date_source": "YouTube watch metadata publication timestamp; frozen discovery",
+      "transcription_date": "2026-11-17",
+      "transcription_date_source": "Observed completion of AI transcription on 2026-11-17 UTC",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "source_method": "audio_asr"
     },
     {
       "rank": 27,
@@ -514,6 +582,6 @@
       "timestamp_availability": false
     }
   ],
-  "available_count": 31,
+  "available_count": 35,
   "partial": true
 }

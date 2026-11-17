@@ -1,6 +1,6 @@
 # Silicon Valley Girl Learning Library Wiki
 
-Snapshot: 2026-11-17. 31 of 50 selected video source notes.
+Snapshot: 2026-11-17. 35 of 50 selected video source notes.
 
 ## Concepts
 
@@ -33,8 +33,12 @@ Snapshot: 2026-11-17. 31 of 50 selected video source notes.
 - [[siliconvalleygirl-library-video-16|Top 1% Career Strategy: How to Get Hired in the AI Era]]
 - [[siliconvalleygirl-library-video-17|Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think]]
 - [[siliconvalleygirl-library-video-18|The AI Workflow That Puts You in the Top 1% | Practical Steps to Level Up]]
+- [[siliconvalleygirl-library-video-19|$22B Kalshi Co-Founder: How Life Changes in the Next 12 Months]]
 - [[siliconvalleygirl-library-video-20|The Real AI Opportunity  | The Ultimate Guide to Become Visible in AI]]
+- [[siliconvalleygirl-library-video-21|Stop Disease 5 Years Early: AI + DNA Playbook With 23andMe's Founder  Anne Wojcicki]]
+- [[siliconvalleygirl-library-video-22|Stanford's Top AI Economist: The Next 10 Years Will Be the Best AND the Worst in History]]
 - [[siliconvalleygirl-library-video-23|The 3-Year AI Deadline: How to Stay Relevant (2026-2028)]]
+- [[siliconvalleygirl-library-video-24|Khan Academy CEO: The Real AI Opportunity Is in Boring Industries | Sal Khan]]
 - [[siliconvalleygirl-library-video-27|Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li]]
 - [[siliconvalleygirl-library-video-30|She Raised a YouTube CEO and a Billion-Dollar Founder | Esther Wojcicki, Godmother of Silicon Valley]]
 - [[siliconvalleygirl-library-video-33|Head of ChatGPT & Codex: agents for normal people are HERE]]

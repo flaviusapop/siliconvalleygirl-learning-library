@@ -35,7 +35,7 @@ Sal Khan says Khan Academy's annualized Anthropic bill was about $1.2 million an
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > Keep asking me questions.
 

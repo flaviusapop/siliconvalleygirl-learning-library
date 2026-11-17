@@ -34,7 +34,7 @@ The conclusion borrows a three-part framework from an economist: define the ques
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > Diagnosis is one task inside the job, not the job.
 

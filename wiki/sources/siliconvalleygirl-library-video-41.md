@@ -32,7 +32,7 @@ For individuals, Yampolskiy says the value of currencies and investments under a
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > Deployment through economy is very different from having technological capabilities to do something.
 

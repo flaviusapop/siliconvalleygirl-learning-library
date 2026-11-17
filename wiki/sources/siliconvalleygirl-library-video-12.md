@@ -33,7 +33,7 @@ The surrounding interview distinguishes a personal utility from a business: Osik
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > You want to iterate towards perfection
 

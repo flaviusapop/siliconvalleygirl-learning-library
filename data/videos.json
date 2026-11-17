@@ -1,7 +1,7 @@
 {
   "snapshot_date": "2026-11-17",
   "selected_count": 50,
-  "available_count": 31,
+  "available_count": 35,
   "partial": true,
   "videos": [
     {
@@ -1221,6 +1221,76 @@
       ]
     },
     {
+      "id": "xiJsfvaxzRY",
+      "title": "$22B Kalshi Co-Founder: How Life Changes in the Next 12 Months",
+      "url": "https://www.youtube.com/watch?v=xiJsfvaxzRY",
+      "rank": 19,
+      "upload_date": "2026-08-11",
+      "duration_seconds": 1991,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "Kalshi’s co-founder discusses prediction-market design and interpretation, the company’s use of AI in operations, and her approach to hiring, regulation and entrepreneurship.",
+      "key_points": [
+        "The guest says requests for AI-related markets have shifted from model capabilities toward impacts such as employment; this is her company’s observation, not an independent measure of public sentiment.",
+        "A market requires precise event definitions and resolution rules; a quoted probability describes uncertainty, not a guaranteed outcome.",
+        "She claims market calibration can emerge at relatively low trading volume, but also says accuracy varies by market and horizon; the interview does not independently establish those thresholds.",
+        "She describes prediction markets as both an information source and a potential hedge, while her company earns transaction fees and has a commercial interest in adoption.",
+        "She reports using AI to collect operational updates, track metrics and support planning, with access permissions and prioritization still unresolved challenges.",
+        "Rather than advocating a solo-founder model, she describes hiring specialists to build internal tools and pursuing more product capacity with AI."
+      ],
+      "summary": [
+        "The co-founder describes Kalshi as a venue for trading on defined future events and as a source of forecast information for people who do not trade. In her account, the subjects users request have moved from AI model capabilities toward possible effects on employment and other areas. She illustrates a market that resolves according to several specified conditions, emphasizing the work required to turn a broad question into a measurable yes-or-no proposition. That construction matters: a price answers the contract’s exact question, not every possible interpretation of the broader headline. She also discusses aggregating election-market information into an index, which compresses many underlying questions into one signal at the cost of detail.",
+        "Asked whether market odds should be trusted, she distinguishes probability from certainty: a low-probability event can still occur. She says her company has studied calibration and claims that useful calibration can appear at modest trading volumes, while also acknowledging that market type and time to resolution matter. Those assertions are not independently checked here; one outcome cannot by itself prove or disprove a probability estimate. The host and guest discuss using event contracts to offset a business promotion or possible weather-related costs, but a market contract may not match an individual’s actual loss and is not equivalent to insurance. The company’s transaction-fee business gives the guest a commercial interest in these uses; no trading recommendation follows.",
+        "On AI at work, she describes augmentation rather than saying that the company has eliminated complete roles. Her team uses AI to bring together updates and metrics for planning and to surface what has or has not been completed. She says the tools connect to company communications and documents, while acknowledging that permissions for sensitive legal and surveillance work remain difficult. She also describes unresolved problems in prioritizing product feedback and improving quality assurance, as well as a design workflow where fast experiments still receive later design attention. These are reported internal practices and aspirations, not evidence that the systems are accurate, secure or broadly transferable.",
+        "Her organizational argument runs against the idea that every founder should work alone with agents: she says dedicated engineers are needed to build reliable tools while founders attend to other responsibilities. She hopes AI will let the company expand its product range rather than simply reduce headcount. She describes direct feedback, willingness to learn and assessment of AI use as parts of hiring, and recounts a regulatory struggle over election markets as an example of pursuing available options. Finally, she encourages women founders to focus on their goals while acknowledging structural inequities and the need for investors to improve. These are her perspectives, not universally proven prescriptions."
+      ],
+      "quotes": [
+        {
+          "text": "one is not zero",
+          "timestamp": null,
+          "label": "Unverified AI transcript excerpt; spoken wording unverified"
+        },
+        {
+          "text": "how to figure out like permissions in the right way",
+          "timestamp": null,
+          "label": "Unverified AI transcript excerpt; spoken wording unverified"
+        }
+      ],
+      "action_items": [
+        "Editorial application: Read a market’s exact resolution rules and deadline before interpreting its price as an answer to a broad question.",
+        "Editorial application: Assess forecast quality across many resolved events and comparable horizons instead of judging calibration from one surprising result.",
+        "Editorial application: Pilot an internal AI planning workflow with explicit source permissions, human review and checks for missing or misprioritized updates.",
+        "Editorial application: Before treating a contract as a hedge, compare its payout conditions with the specific loss and consider the possibility of losing the stake."
+      ],
+      "resources": [
+        {
+          "label": "Kalshi prediction markets (guest’s company)",
+          "url": null
+        },
+        {
+          "label": "Kalshi Research (company research described in interview)",
+          "url": null
+        },
+        {
+          "label": "Transcriptor (promotional segment)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "Prediction Markets",
+        "AI",
+        "Founders"
+      ],
+      "caveats": [
+        "No human audio review was performed. This is unverified AI ASR; audio–video identity, speech coverage, wording, names, numbers and negations are unverified, and ASR hallucinations are possible.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "Factual claims and forecasts are unverified participant statements. Medical material is not medical advice; consult a qualified clinician about personal decisions.",
+        "The guest has a commercial interest in the platform; trading can lose money. Watch and tab durations differ by one second."
+      ]
+    },
+    {
       "id": "2NFQ4-6MzuU",
       "title": "The Real AI Opportunity  | The Ultimate Guide to Become Visible in AI",
       "url": "https://www.youtube.com/watch?v=2NFQ4-6MzuU",
@@ -1282,6 +1352,148 @@
         "Unverified AI-generated ASR from locally acquired audio; audio was not listened to, and actual speech, completeness, names, numbers, negations and audio–video equivalence are unverified.",
         "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
         "Technical explanations, performance statistics, promotion claims and causal interpretations are not independently verified. This is not medical advice."
+      ]
+    },
+    {
+      "id": "VF2FwZ_PXhw",
+      "title": "Stop Disease 5 Years Early: AI + DNA Playbook With 23andMe's Founder  Anne Wojcicki",
+      "url": "https://www.youtube.com/watch?v=VF2FwZ_PXhw",
+      "rank": 21,
+      "upload_date": "2026-07-28",
+      "duration_seconds": 3674,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "The 23andMe founder discusses genetic risk, AI-enabled health research and the limits of translating predictions into care, then reflects on company setbacks, community and family.",
+      "key_points": [
+        "The guest proposes combining genetic information with medical records, environmental data and wearables to inform individual risk assessments; the interview does not validate the resulting advice.",
+        "She distinguishes single-variant risk from polygenic scores and argues that population averages need not describe an individual; her treatment statements require clinical verification.",
+        "She expects larger datasets to help prediction, while acknowledging that intervention effects still require experiments and clinical trials.",
+        "She describes the possibility of incidental findings from whole-body scans and discloses an investment in a scan provider while also recommending its use.",
+        "She links persistence through the company’s bankruptcy to a stated responsibility to customers and employees, and presents community as a recurring theme in work and family.",
+        "She describes supporting working parents through family-friendly policies and access to community help, while acknowledging the practical difficulty of combining work and care."
+      ],
+      "summary": [
+        "The guest frames disease prevention as an information and incentives problem: in her account, healthcare rewards treatment more readily than prevention, leaving individuals to seek ways to understand their own risks. She differentiates a risk associated with a single genetic variant from a polygenic score aggregating many variants. Her proposed future combines genetics with records, wearable measurements and environmental information so that a person can discuss possible interventions with the medical system or examine lifestyle choices. The host presses on how population-level genetic and environmental contributions translate to a particular individual. The guest’s examples are illustrative assertions, not a validated means to calculate an individual’s risk or decide on medication; her broad claims about testing and treatment should not be taken as clinical instructions.",
+        "She argues that larger genetic datasets and AI could improve risk prediction, and describes linking consenting participants’ wearable data and records to research. But she also identifies a crucial gap: a model finding patterns is not the same as establishing that an intervention changes outcomes. Her account emphasizes the difficulty of running experiments and waiting for clinical events, and she cautions that drug development still requires human trials and regulatory work. Her forecasts about future prediction and gene editing are speculative. Discussing a family cancer experience, she says she cannot determine its cause and treats stress, environment and susceptibility as questions rather than established explanations.",
+        "The screening conversation illustrates a practical tension. The guest promotes her company’s health offering and discusses whole-body imaging, disclosing that she is an investor in the imaging provider. She acknowledges that scans can reveal findings that lead to further workup and anxiety as well as anecdotes of serious discoveries. Neither anecdotes nor commercial enthusiasm establish the balance of benefits and harms for a given person. Her account of customer choice and research consent is a company representative’s description, not an independent privacy assessment. Genetic and health records are sensitive; any sharing decision warrants scrutiny of the service’s terms and safeguards.",
+        "The conversation moves from health data to how the guest sustains long-term projects. She describes considering whether to give up during the company’s bankruptcy, but says her attachment to the mission and perceived obligations to customers and employees kept her engaged. She also describes developing a local community space and sees intergenerational contact as valuable. On parenting, she emphasizes showing up, prioritizing work, support from neighbors and a family-friendly workplace; her personal reproductive experience is an anecdote, not a general prediction. Across these topics the organizing idea is that long-horizon work depends not just on conviction, but on people and institutions able to support it."
+      ],
+      "quotes": [
+        {
+          "text": "you have to run experiments",
+          "timestamp": null,
+          "label": "Unverified AI transcript excerpt; spoken wording unverified"
+        },
+        {
+          "text": "you have to have support",
+          "timestamp": null,
+          "label": "Unverified AI transcript excerpt; spoken wording unverified"
+        }
+      ],
+      "action_items": [
+        "Editorial application: Ask a qualified clinician what a genetic result means for your own situation before making screening or treatment decisions.",
+        "Editorial application: Distinguish a predictive association from evidence that an intervention improves outcomes; seek the relevant study and its limitations.",
+        "Editorial application: Review consent, access, retention and deletion terms before sharing genetic or health records with a service or AI tool.",
+        "Editorial application: Map the people and practical supports a long-term project or caregiving commitment depends on."
+      ],
+      "resources": [
+        {
+          "label": "23andMe (guest’s genetic testing and research organization)",
+          "url": null
+        },
+        {
+          "label": "Prenuvo (imaging provider; guest describes an investment)",
+          "url": null
+        },
+        {
+          "label": "The Choice (book mentioned by guest)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Health",
+        "Genetics"
+      ],
+      "caveats": [
+        "No human audio review was performed. This is unverified AI ASR; audio–video identity, speech coverage, wording, names, numbers and negations are unverified, and ASR hallucinations are possible.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "Factual claims and forecasts are unverified participant statements. Medical material is not medical advice; consult a qualified clinician about personal decisions.",
+        "The guest promotes her company and discloses an imaging investment; watch and tab durations differ by one second."
+      ]
+    },
+    {
+      "id": "72duHF7iZiU",
+      "title": "Stanford's Top AI Economist: The Next 10 Years Will Be the Best AND the Worst in History",
+      "url": "https://www.youtube.com/watch?v=72duHF7iZiU",
+      "rank": 22,
+      "upload_date": "2026-07-21",
+      "duration_seconds": 3212,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "A Stanford economist discusses AI exposure across tasks, organizational adoption, labor transitions, economic measurement and competing visions of shared prosperity or concentrated power.",
+      "key_points": [
+        "The guest describes a reported decline in employment for younger workers in highly AI-exposed occupations, not all entry-level work; the figures and causal interpretation remain unverified.",
+        "Demand response matters: making a task cheaper can shrink employment in some settings while increasing demand for complementary work in others.",
+        "He divides work into framing a problem, executing it and evaluating results, forecasting a growing role for human judgment at the first and last stages.",
+        "He argues companies need process redesign and workforce training to turn model capabilities into economic gains, and warns that cutting junior hiring can weaken future talent pipelines.",
+        "He proposes GDP-B as a way to estimate benefits from free goods not fully captured by conventional expenditure measures.",
+        "He sees potential for both broadly shared prosperity and concentrated wealth or catastrophic harms; he treats the outcome as a matter of choices, not inevitability."
+      ],
+      "summary": [
+        "The guest describes his research on young workers in occupations highly exposed to AI. He qualifies the opening reference to a 16% employment decline: it concerns younger people in the most exposed occupations, not every entry-level job. He contrasts this with other occupations and with uses that augment rather than automate workers. These are his descriptions of research, not independently checked results or a settled causal estimate. His analysis begins with tasks within a job rather than treating an occupation as a single unit. Radiology illustrates his argument: reading images is only one of the activities he lists, and he suggests demand for other work can increase when a task becomes more efficient. The effect on employment, he argues, depends partly on how strongly demand responds to a lower price, not just on whether a task can be automated.",
+        "He distinguishes rapidly improving model capabilities from the economic benefits businesses have actually captured. In his account, companies may apply tools to peripheral activities instead of core problems; gaining value also requires changing processes, training workers and sometimes developing new products. His forecast of a larger productivity impact over the next few years is speculative. He frames projects in three stages: define the problem, execute, and evaluate the outcome. Agents, he expects, will do more execution, while people will need to formulate useful questions, check unreliable outputs and iterate. This does not establish that every worker will be able to make that transition. He describes one company continuing junior hiring while explicitly teaching broader project skills, and warns that eliminating junior roles could undermine the pipeline to senior positions. He also calls for public investment in training and cites the political backlash he associates with insufficient support for workers displaced by trade.",
+        "The conversation turns to distribution, measurement and uncertainty. The guest worries AI-generated wealth and political power could concentrate in a few organizations, even if productivity grows. He favors entrepreneurship and wider participation, while mentioning redistribution, including basic income and taxes, as possible backup measures. He explains GDP-B as a proposed measure based on how much compensation people would require to give up a service, meant to capture benefits of free goods that conventional GDP may miss; his reported valuations are not verified here. He also discusses agency, human connection and physical skills as potential sources of value, without guaranteeing their durability. Near the end he contrasts hopes for better living standards with risks including manipulation, centralized power and AI-enabled warfare. His medical and longevity forecasts are speculative, not medical advice. The episode includes promotion of the guest’s course and company, a Genspark demonstration and the host’s newsletter, which are not independent evidence for the predictions."
+      ],
+      "quotes": [
+        {
+          "text": "every job is a bundle of tasks",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "defining the question",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Map a role into tasks and identify which are candidates for assistance, automation or human judgment rather than assuming the whole role changes uniformly.",
+        "Editorial adaptation: For one low-risk workflow, define the problem and acceptance criteria before testing an AI-assisted draft; review its output independently.",
+        "Editorial adaptation: Examine how junior staff can gain experience and mentorship if routine entry-level tasks change.",
+        "Editorial adaptation: Compare the guest’s distribution and productivity forecasts with independently sourced evidence before making policy or career decisions."
+      ],
+      "resources": [
+        {
+          "label": "Canaries in the Coal Mine (research discussed)",
+          "url": null
+        },
+        {
+          "label": "The Second Machine Age (book discussed by the guest)",
+          "url": null
+        },
+        {
+          "label": "Stanford AI economic indicators and takeoff tracker (discussed)",
+          "url": null
+        },
+        {
+          "label": "Genspark (promotional demonstration)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Future of Work",
+        "Economics"
+      ],
+      "caveats": [
+        "This is unverified AI-generated ASR from locally acquired audio associated with the video. The original audio was not listened to; audio–video equivalence, speech coverage, names, numbers and negations are unverified. It is not a verified verbatim transcript.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "All participant claims, examples, economic statistics and forecasts are unverified; this summary is not medical, financial or career advice."
       ]
     },
     {
@@ -1352,6 +1564,78 @@
         "Caption-track origin is unknown; excerpts are literal cached captions, not audio-verified quotations, and speech-level completeness is unproven.",
         "The guests are building a decentralized AI network and have a commercial stake in their proposed alternative; market and employment forecasts and the bank anecdote are not independently verified.",
         "MongoDB Atlas is a sponsor; its product and real-time-data claims are advertising, not independently assessed."
+      ]
+    },
+    {
+      "id": "s-Iz-lLAhdg",
+      "title": "Khan Academy CEO: The Real AI Opportunity Is in Boring Industries | Sal Khan",
+      "url": "https://www.youtube.com/watch?v=s-Iz-lLAhdg",
+      "rank": 24,
+      "upload_date": "2026-07-14",
+      "duration_seconds": 2649,
+      "transcription_date": "2026-11-17",
+      "source_method": "audio_asr",
+      "source_availability": "audio_asr_based",
+      "timestamp_availability": false,
+      "overview": "Khan Academy’s Sal Khan discusses AI-driven job uncertainty, how his organization is adopting AI, and a proposed training and credentials initiative centered on applied and interpersonal skills.",
+      "key_points": [
+        "Khan worries that automation could displace workers in call centers and driving, although his examples and timelines are unverified and uncertain.",
+        "He says Khan Academy intends to use AI productivity to expand output rather than make AI itself a reason for layoffs, while noting that funding shortfalls could still force cuts.",
+        "He describes product, design and engineering roles blending, and gives examples of prototyping, code review and first-draft proposals with human oversight.",
+        "He proposes an online, competency-based institute with group simulations and portfolios; accreditation, pricing, results and employer hiring are not established by the interview.",
+        "He argues communication, collaboration, critical thinking and initiative may remain valuable, but his job-security predictions are not guarantees.",
+        "He recommends exploring overlooked industries and warns that AI responses can be overly agreeable even when asked for criticism."
+      ],
+      "summary": [
+        "Khan explains that his concern about job disruption grew after hearing an account of AI automation at a call center, and he connects this to possible changes for drivers and technology workers. The anecdote, statistics and estimated timeline are unverified, and he explicitly expresses uncertainty about outcomes. He argues that society needs a plan for reskilling rather than assuming a technological transition will automatically be painless. He favors exploring a form of universal basic work over basic income because he associates work with contribution and purpose. That is his policy preference, not evidence that such a program would work or that income support would fail. He expects some occupations to change in pockets before any hypothetical broad unemployment and stresses that education, government, nonprofits and industry need solutions.",
+        "At Khan Academy, he describes anxiety among employees as AI increases their capacity. He says the organization intends to do more with the same resources rather than treat AI productivity as a layoff trigger, but explicitly notes that inadequate philanthropic or earned revenue could still lead to layoffs. He reports designers and product managers gaining access to development environments, engineers using agents for coding and review, and a quickly prototyped feature progressing to release with design input. His estimate that organizational velocity feels substantially faster is a subjective impression, not a measured result. He also describes significant model costs and argues that spending should be judged against useful output. For operational work he describes drafting proposals and finding overlooked items with connected tools, while keeping a person in the loop for outgoing messages and checking sources before publishing factual material. These anecdotes do not verify quality, security or generalizable productivity.",
+        "Khan describes a proposed online institute designed around academic study, group simulations and portfolios of work that show collaboration, communication, creativity and critical thinking. The transcript renders its name uncertainly, so this summary does not standardize it. He says accreditation is being pursued, the intended total degree price is at most $10,000, and the competency-based program may allow different completion times. These are plans, not verified accreditation, current prices or proven outcomes; he also says corporate partners have not committed to hiring graduates. He contrasts the social experience of residential college with potentially cheaper, job-oriented alternatives, while acknowledging his own family’s privilege. He encourages experimenting with AI tools, seeking feedback and looking for underserved, less fashionable industries. He cautions that chatbots can flatter rather than challenge a user. The host also promotes a sponsored HubSpot for Startups download and a newsletter; these promotions are not evidence for the broader employment claims."
+      ],
+      "quotes": [
+        {
+          "text": "we should have a plan",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        },
+        {
+          "text": "Try to find the lanes that are most empty.",
+          "timestamp": null,
+          "label": "Unverified, untimed AI-transcribed excerpt; not verified spoken wording"
+        }
+      ],
+      "action_items": [
+        "Editorial adaptation: Inventory repetitive tasks and test a low-risk AI-assisted draft while retaining human review and checking sources.",
+        "Editorial adaptation: Practice a small group project and request specific feedback on communication, collaboration and decision-making.",
+        "Editorial adaptation: Investigate a less-served industry by speaking with potential users about actual workflow problems before building.",
+        "Editorial adaptation: Independently verify accreditation, total cost and placement evidence before relying on any training program."
+      ],
+      "resources": [
+        {
+          "label": "Brave New Words (book discussed)",
+          "url": null
+        },
+        {
+          "label": "Job Shock (book described as in progress)",
+          "url": null
+        },
+        {
+          "label": "Khan Academy (organization discussed)",
+          "url": null
+        },
+        {
+          "label": "HubSpot for Startups (episode sponsor)",
+          "url": null
+        }
+      ],
+      "topics": [
+        "AI",
+        "Education",
+        "Future of Work"
+      ],
+      "caveats": [
+        "This is unverified AI-generated ASR from locally acquired audio associated with the video. The original audio was not listened to; audio–video equivalence, speech coverage, names, numbers and negations are unverified. It is not a verified verbatim transcript.",
+        "AI transcription is unverified; segment timing does not establish complete or verbatim speech coverage.",
+        "All participant claims, examples, economic statistics and forecasts are unverified; this summary is not medical, financial or career advice."
       ]
     },
     {

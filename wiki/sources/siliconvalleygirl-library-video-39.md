@@ -34,7 +34,7 @@ Near the end, the host describes voice dictation through WhisperFlow for richer 
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > AI is going to make you dumb if you outsource your problem-solving to AI.
 

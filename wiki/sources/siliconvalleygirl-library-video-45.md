@@ -35,7 +35,7 @@ Toward the end, Gawdat describes AI development as a competitive race and argues
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > Stop believing everything that you're said that you're told.
 

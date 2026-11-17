@@ -34,7 +34,7 @@ Later, he describes using Codex for coding, strategy, note organization and unan
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > you cannot outsource like understanding
 

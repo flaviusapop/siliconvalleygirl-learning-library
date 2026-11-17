@@ -33,7 +33,7 @@ For practical support he distinguishes aspirational mentors from real ones: stud
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > I don't think the window is necessarily closing
 

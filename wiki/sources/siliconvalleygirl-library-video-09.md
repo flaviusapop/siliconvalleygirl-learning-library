@@ -33,7 +33,7 @@ On individual advantage, Chesky argues that tools accelerate getting ideas into 
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > there's no replacement for like good thinking
 

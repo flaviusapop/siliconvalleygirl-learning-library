@@ -34,7 +34,7 @@ His recommended starting point is a small pain point such as a difficult email: 
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > start small. Like just try something
 

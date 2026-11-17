@@ -35,7 +35,7 @@ Sixth is a vertical AI product built around a specific workflow. Daniel Priestle
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > And demonstrate it.
 

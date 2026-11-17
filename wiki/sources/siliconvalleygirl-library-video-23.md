@@ -35,7 +35,7 @@ For individuals, their advice is to try tools in current work, planning and home
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > Everything will be disrupted. Every single job will be disrupted.
 

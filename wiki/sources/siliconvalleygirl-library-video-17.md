@@ -35,7 +35,7 @@ On sensitive data, Ng describes examining provider terms, retention and guardrai
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > the challenge is shifting to deciding what to build
 

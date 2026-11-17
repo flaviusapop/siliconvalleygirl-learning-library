@@ -32,7 +32,7 @@ The final layer remains a work in progress: capture decisions and editorial feed
 
 ## Supported quotations
 
-Quotation timestamps are not verified; no timed links are inferred.
+Quotation wording is not audio-verified or confirmed verbatim. Quotation timestamps are not verified; no timed links are inferred.
 
 > we're still building towards an AI first company
 
